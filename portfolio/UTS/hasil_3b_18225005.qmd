@@ -1,0 +1,192 @@
+---
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 3b — Kasus 3: Menawarkan Solusi TI dan AI"
+author: "Virdhi Yastana Buma (NIM: 18225005)"
+date: "2026-10-15"
+lang: id
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    theme: cosmo
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Virdhi Yastana Buma |
+| NIM | 18225005 |
+| Kelas dan tanggal | K01, 15 Oktober 2026 |
+| Nomor/judul kasus | Sesi 3b; Kasus 3 — Menawarkan Solusi TI dan AI |
+| Nama dan ID target | Fajar (K3-06) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Modalitas | Teks mandiri |
+| Kasus nyata/fiktif | Fiktif terstandarisasi |
+| Kelengkapan transkrip | Lengkap (seluruh giliran dialog tercatat kronologis dari Tahap A hingga F) |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+* **Brief Kasus**: Customer (pengelola usaha) menangani pertanyaan pelanggan berulang dan pesanan tercecer dengan tenaga kerja terbatas. Ia belum yakin membutuhkan AI. Mahasiswa bertugas menggali kebutuhan operasionalnya dan menawarkan solusi TI/AI yang sesuai secara realistis, dengan target kesepakatan uji coba konkret.
+* **Konteks**: Lingkungan usaha kuliner/ritel dinamis berkecepatan tinggi dengan alur pesanan sibuk, dipimpin oleh pengelola lapangan yang pragmatis, mengutamakan kelincahan, dan enggan dibebani kerumitan sistem baru.
+* **Respons Akhir yang Diharapkan**: Fajar secara terbuka menerima sistem TI sebagai alat bantu pencatatan kasir, menyepakati sesi demo 15 menit sebelum toko buka beserta skema mitigasi *fallback* manual nota fisik, dan menyetujui implementasi penuh setelah panduan langkah ditambahkan pada antarmuka layar saat fase uji ulang.
+* **Indikator Keberhasilan**: Kesepakatan demo langsung 15 menit, penyediaan jalur komunikasi darurat, kejelasan fungsi *undo* pesanan, dan penyesuaian panduan visual di layar kasir untuk meminimalkan ketergantungan pada staf pemula di jam sibuk.
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
+|---|---|---|---|
+| SWOT subjektif | Kekuatan: lugas, percaya diri tinggi, dan tanggap memberikan solusi taktis. Kelemahan: kecenderungan awal memaparkan fitur umum sebelum menggali alur spesifik. Peluang: efisiensi alur antrean toko secara riil. Ancaman: penolakan bila solusi dianggap menambah beban kerja kasir. | U001, U002, U007, U009 | Sedang |
+| Attitude | Mengutamakan kepraktisan, keberanian mengambil inisiatif solusi teruji, dan keyakinan bahwa peran manusia dan teknologi harus saling melengkapi secara logis. | U002, U007, U009 | Sedang |
+| Knowledge | Memahami logika alur operasional ritel, keterbatasan fokus kasir saat jam sibuk, serta pentingnya prosedur cadangan manual (*fallback*). | U003, U004, U005, U008 | Sedang |
+| Skill | Keterampilan persuasi berbasis aksi cepat, simplifikasi penjelasan teknis, dan perancangan antarmuka adaptif yang memandu pengguna secara mandiri. | U003, U005, U006, U008 | Sedang |
+| Preferensi/MBTI jika dilaporkan | Tidak dilaporkan (berorientasi pada gaya komunikasi langsung, minim basa-basi, dan berbasis pemecahan masalah operasional). | U002, U009 | Hipotesis |
+| Karakter, peran, kultur/ko-kultur | Konsultan solusi bisnis TI yang tangkas, solutif, menghargai waktu mitra bisnis, dan berorientasi pada hasil nyata di lapangan. | U002, U003, U006 | Sementara |
+
+## Dugaan awal profil target dan rencana
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| **Target** | Menawarkan uji coba sistem pencatatan digital untuk memecahkan masalah pesanan tercecer tanpa menambah beban kerja staf. | Mengidentifikasi hambatan pragmatisme lapangan dan ketakutan akan risiko kesalahan otomatisasi. | Menyampaikan solusi secara padat, jelas, dan berorientasi manfaat nyata. | Fajar bersedia mendengarkan alur spesifik dan menanyakan mitigasi risiko. |
+| **Attention** | Menangkap perhatian lawan bicara yang sedang terburu-buru dan membutuhkan solusi instan. | A: Menyesuaikan tempo komunikasi agar tidak bertele-tele dan langsung menyasar inti manfaat. | "Ya jadi ini bisa pantau stok, pemasukan, pengeluaran, antrean..." | Fajar meminta penjelasan konkret mengenai alur kerja utama di meja kasir. |
+| **Interest** | Menumbuhkan ketertarikan dengan menggambarkan alur pesanan otomatis yang langsung terhubung ke nomor antrean dan stok. | K: Menjelaskan bahwa sistem otomatis memangkas waktu rekap manual kasir. | "Setiap pesanan masuk langsung dicatat sistem sekaligus masuk ke nomor antrean..." | Fajar mengakui alur tersebut sesuai kebutuhan dan menanyakan prosedur penanganan eror (*fallback*). |
+| **Desire** | Memicu keinginan mencoba dengan menjamin kemudahan koreksi data (*undo*) dan ketersediaan kontak siaga. | S: Menyediakan skema demo singkat 15 menit dan jaminan nomor kontak langsung tim teknis. | "Bisa banget. Kalo di tengah tengah ada masalah juga bisa langsung hubungi tim saya, ini nomornya." | Fajar menyepakati jadwal demo 15 menit sebelum toko buka dan uji coba bertahap. |
+| **Action** | Mengunci adopsi penuh sistem saat muncul kendala kasir panik di jam ramai pada tahap uji ulang. | S: Menambahkan petunjuk langkah di antarmuka sistem dan memberikan saran manajemen penugasan sif kasir. | "Sudah saya tambahkan langkah langkah di bagian atas layar. Tapi kedepannya... jangan langsung pakai kasir baru di jam sibuk." | Fajar sepakat melanjutkan penerapan sistem secara penuh dan mengapresiasi solusi cepat mahasiswa. |
+
+# C) Skrip Percakapan
+
+**[Tahap A — Identifikasi & Verifikasi Administrasi]**
+
+* **U001**: "kelas: k01, Tanggal: 15 Oktober, modalitas: teks mandiri"
+* **AI001**: "Data identifikasi Tahap A telah tercatat: Nama: Virdhi Yastana Buma, NIM: 18225005, Kelas: K01, Tanggal: 15 Oktober 2026, Modalitas: Teks mandiri. Sesi: 3b (urutan 5 dari 5, sesi terakhir), Kasus konseptual: 3 — Menawarkan Solusi TI dan AI, Komunikan: Fajar, ID K3-06, Nama laporan wajib: hasil_3b_18225005.qmd. Kita masuk ke Tahap B (Kasus dan Tujuan): Sebutkan 1) Tujuan konkret, 2) Dugaan awal ASK target, dan 3) Rencana pendekatan komunikasi Anda."
+
+**[Tahap B — Kasus dan Perencanaan Awal]**
+
+* **U002**: "1. Jika memang kekurangan tenaga kerja dan AI bisa membantu, kenapa tidak dicoba? 2. Di awal ragu dan merasa memerlukan adaptasi yang berat 3. Memberi contoh yang meyakinkan"
+* **AI002**: "Perencanaan awal untuk Sesi 3b dicatat. Masuk ke Tahap C: Simulasi Dialog (Kasus 3b). Fajar menyambut Anda dengan melirik jam tangannya, tampak terburu-buru, lalu langsung berkata: 'Bisa langsung ditunjukkan manfaatnya? Saya tidak punya banyak waktu.' Bagaimana tanggapan konkret Anda?"
+
+**[Tahap C — Simulasi Dialog Awal]**
+
+* **U003**: "Aku: Ya jadi ini bisa pantau stok, pemasukan, pengeluaran, antrean, dan lainnya bisa ditambahkan atau dikurangi sesuai kebutuhan"
+* **AI003**: "Fajar: 'Daftar fiturnya kedengaran lengkap, tapi di lapangan masalah paling bikin pusing sekarang itu chat pesanan numpuk dan pesanannya tercecer pas lagi ramai. Kalau sistem ini dipakai, alur konkretnya bagaimana supaya pesan masuk langsung rapi jadi antrean pesanan tanpa nambah kerjaan admin ngetik ulang? Tunjukkin satu alur kerja utamanya sekarang, jangan cuma sebut fiturnya.' Bagaimana tanggapan Anda?"
+* **U004**: "Aku: Setiap pesanan masuk langsung dicatat sistem sekaligus masuk ke nomor antrean, jadi tidak akan tercecer. Setiap pesanan yang selesai juga langsung memperbarui sisa stok. Dan di akhir hari, sistem akan kasih data pemasukan"
+* **AI004**: "Fajar: 'Nah, itu alur yang saya cari—simpel dan langsung ke intinya. Jadi admin nggak perlu repot rekap ulang satu per satu. Tapi yang bikin saya agak waswas itu kalau sistem otomatisnya salah baca pesan pelanggan yang formatnya aneh atau typo. Kalau sistem salah input jumlah pesanan terus stok kepotong ngawur di jam sibuk, urusannya panjang. Ada cara buat ngecek atau fallback manualnya nggak kalau sistemnya error, dan bagaimana skema uji cobanya biar nggak langsung bikin operasional toko berantakan kalau ada kendala?' Bagaimana tanggapan Anda?"
+* **U005**: "Aku: Oh itu yang input pesanan tetap kasir. Kalo biasanya catat manual di kertas, sekarang tinggal pencet pencet layar sistem"
+* **AI005**: "Fajar: 'Paham, jadi sistem ini bertindak sebagai alat bantu kasir biar nggak nulis nota manual lagi di kertas. Tapi kembali ke pertanyaan saya tadi: kalau sistemnya tiba-tiba down, layarnya ngelag, atau kasir salah pencet jumlah pesanan, langkah cadangan (fallback) buat benerinnya gimana? Terus biar saya yakin sistem ini nggak bikin antrean tambah macet pas jam sibuk, kapan dan bagaimana kita bisa coba tes demo singkat alurnya?' Bagaimana tanggapan Anda?"
+* **U006**: "Aku: Kalo error itu masalah teknis atau down itu masalah teknis lain. Tapi kalo kasir salah pencet, itu bisa undo. UI nya juga disesuaikan supaya mudah dimengerti"
+* **AI006**: "Fajar: 'Fitur undo itu wajib ada, bagus kalau sudah disiapin biar kasir nggak panik pas salah pencet. Tapi soal kemungkinan sistem ngelag atau mati lampu tiba-tiba, saya tetap butuh kepastian prosedur manualnya: kasir pegang buku nota fisik cadangan dan rekapnya disinkronkan belakangan kan? Terus biar kita nggak buang waktu nebak-nebak, bisa nggak kamu luangkan waktu 15 menit besok sebelum toko buka buat demo langsung alur kasir dari input sampai undonya? Kalau demonya lancar dan kasir saya cepat paham, besoknya kita langsung uji coba kecil di jam sepi.' Bagaimana tanggapan Anda?"
+* **U007**: "Aku: Bisa banget. Kalo di tengah tengah ada masalah juga bisa langsung hubungi tim saya, ini nomornya."
+* **AI007**: "Fajar: 'Mantap, ada nomor kontak langsung bikin jauh lebih tenang kalau ada kendala mendadak. Jadi kesepakatan kita jelas: besok pagi 15 menit sebelum toko buka kita lakukan demo alur kasir dan fungsi undonya. Kalau lancar, siangnya langsung kita coba bertahap dengan tetap siapin nota fisik cadangan. Sampai ketemu besok pagi!' Masuk ke Tahap D: Evaluasi Sementara."
+
+**[Tahap D — Evaluasi Sementara]**
+
+* **U008**: "1. Fajar awalnya ragu jika teknologi malah menambah beban. Namun kini tidak. 2. Saat memberikan solusi simpel dan mmeberikan kepercayaan berupa kontak darurat. 3. Untuk memberinya kepercayaan dan rencana cadangan jika sistem tidak lancar"
+* **AI008**: "Evaluasi sementara dicatat. Masuk ke Tahap E: Uji Ulang (Re-test). Keesokan paginya, demo 15 menit berjalan sukses dan fungsi dasar serta undo dipahami oleh kasir. Namun pada siang hari saat jam sibuk, Fajar menghubungi melalui telepon: 'Halo, ini demo paginya memang lancar dan kasir bisa pakai. Tapi barusan pas antrean makan siang panjang, ada kasir baru yang panik dan salah input pesanan dua kali berturut-turut, terus dia lupa urutan langkah pencet undo-nya. Akhirnya dia bingung dan kasir sempat macet sebentar sebelum akhirnya balik ke nota kertas. Kalau pas jam ramai begini kasir baru gampang kagok, ada nggak checklist ringkas satu lembar atau panduan 3 langkah di meja kasir biar mereka nggak panik dan nggak perlu bolak-balik nelpon kamu?' Bagaimana tanggapan Anda?"
+
+**[Tahap E — Uji Ulang (Re-test)]**
+
+* **U009**: "Aku: Sudah saya tambahkan langkah langkah di bagian atas layar. Tapi kedepannya, untuk mengurangi resiko, jangan langsung pakai kasir baru di jam sibuk. Mau gimanapun teknologi membantu, jam terbang karyawan juga penting"
+* **AI009**: "Fajar: 'Ide nambahin petunjuk langkah langsung di atas layar itu mantap banget dan sangat praktis! Masukan soal jangan pasang kasir baru pas jam sibuk juga masuk akal, saya akui tadi manajemen sifnya yang kurang pas. Dengan panduan langsung di layar dan kasir senior yang pegang jam ramai, kita lanjut pakai sistem ini sepenuhnya. Makasih solusinya yang cepat dan nggak bertele-tele!' Masuk ke Tahap F: Hasil dan Refleksi Akhir."
+
+**[Tahap F — Refleksi Akhir & Konfirmasi]**
+
+* **U010**: "1. Perubahan ASK dan SWOT: A: Memberikan penjelasan yang taktis, namun tetap jelas, solutif, dan masuk akal. K: Tetap berpikir dari segala sudut pandang dan logis. S: Percaya diri dan tidak bertele tele. 2. Refleksi Relasional: Memberikan penjelasan yang singkat, percaya diri, dan jelas, serta menambah kepercayaan melalui memberi kontak darurat. 3. Ya. Buatkan berkas laporan lengkap hasil_3b_18225005.qmd persis mengikuti template_laporan_2.qmd untuk Sesi 3b Kasus 3 (Komunikan: Fajar, ID K3-06)..."
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+Tujuan tindakan tercapai secara komprehensif. Mahasiswa berhasil meyakinkan Fajar—pengelola usaha lapangan yang sangat berorientasi pada kecepatan—untuk mengadopsi sistem digital sebagai alat bantu kasir, menyepakati jadwal demo 15 menit sebelum toko buka, memberikan jaminan jalur komunikasi darurat, serta menuntaskan kendala operasional kasir baru melalui penambahan panduan visual di layar saat fase uji ulang.
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| **Kesimpulan SWOT** | Kekuatan: persuasi percaya diri; Kelemahan: penjelasan awal bersifat daftar fitur; Peluang: adopsi cepat di lapangan; Ancaman: keraguan target terhadap risiko kesalahan otomatis. | Kekuatan: tangkas memberikan solusi taktis dan mitigasi risiko; Kelemahan: perlu lebih eksplisit di awal terkait skenario kegagalan teknis; Peluang: standardisasi SOP kasir digital; Ancaman: kesalahan manusia staf pemula. | U002, U003, U006, U007, U009, U010 | Berdasarkan laporan diri mahasiswa dan verifikasi transkrip simulasi. |
+| **Attitude** | Menganggap teknologi mutlak dicoba jika tenaga kerja terbatas, tanpa mempertimbangkan kekhawatiran operasional mitra. | Memahami bahwa mitra lapangan menuntut komunikasi yang ringkas, solutif, menghargai waktu, dan memerlukan kepastian mitigasi risiko. | U002, U007, U009, U010 | Ditunjukkan lewat gaya komunikasi yang padat dan pemberian nomor kontak siaga. |
+| **Knowledge** | Mengetahui fitur sistem secara umum, namun belum mengantisipasi kebutuhan prosedur cadangan manual (*fallback*). | Menguasai pentingnya integrasi prosedur darurat nota fisik dan pemahaman bahwa teknologi tidak menggantikan kesiapan jam terbang karyawan. | U004, U006, U008, U009 | Terkonfirmasi saat mahasiswa menyarankan evaluasi manajemen sif kerja kasir. |
+| **Skill** | Keterampilan komunikasi berbasis daftar fungsi umum (*feature dump*). | Keterampilan mendemonstrasikan alur ringkas, negosiasi uji coba bertahap, serta modifikasi antarmuka visual secara instan. | U003, U004, U007, U009 | Dibuktikan langsung lewat penambahan panduan langkah di atas layar kasir. |
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| **Episode 1 (U003–U004)** | Pragmatis / Menuntut bukti. Fajar menolak daftar fitur umum dan meminta alur kerja konkret (Bukti AI002, AI003). | Menjelaskan alur terpadu: pesanan masuk langsung bernomor antrean, stok terpotong otomatis, dan rekap keuangan otomatis (U004). | Fajar puas dengan alur ringkas tersebut, namun menanyakan risiko salah ketik dan mekanisme *fallback* manual (AI004). | A membaik (menghargai alur); K terbuka (menanyakan risiko otomatisasi). | Mahasiswa menghentikan pemaparan fitur dan fokus pada alur operasional kasir. |
+| **Episode 2 (U005–U007)** | Waspada / Membutuhkan kepastian. Fajar butuh prosedur saat sistem *down* dan jadwal pembuktian (Bukti AI004, AI005). | Menjelaskan fungsi *undo*, menyetujui demo 15 menit sebelum toko buka, dan memberikan nomor kontak darurat (U006, U007). | Fajar merasa tenang, menyepakati sesi demo pagi, dan merencanakan uji coba bertahap dengan cadangan nota manual (AI007). | A dan K tuntas; S terfasilitasi lewat demo terjadwal dan rasa aman relasional. | Memberikan nomor kontak pribadi sebagai bentuk komitmen dukungan nyata. |
+| **Episode 3 (U009)** | Tertekan operasional / Kagok. Kasir pemula panik di jam ramai dan lupa urutan langkah *undo* (Bukti AI008). | Menambahkan petunjuk langkah di bagian atas layar dan memberikan saran taktis agar tidak menaruh staf baru di jam sibuk (U009). | Fajar sangat puas dengan solusi praktis di layar dan mengakui kelemahan manajemen sif tokonya (AI009). | S teruji penuh; kemitraan kerja terkunci pada adopsi penuh sistem. | Memberikan solusi ganda: perbaikan UI sistem dan koreksi manajemen SDM pengguna. |
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+|---|---|---|---|---|
+| **U004** | "Setiap pesanan masuk langsung dicatat sistem sekaligus masuk ke nomor antrean, jadi tidak akan tercecer..." | Fajar langsung antusias karena masalah utamanya dipahami secara tepat tanpa basa-basi (AI004). | **Rasa aman: Sedang $\rightarrow$ Tinggi.** Fajar merasa mahasiswa mendengarkan persoalan riil di tokonya. | Menurunkan resistensi Fajar terhadap teknologi digital di meja kasir. |
+| **U007** | "Bisa banget. Kalo di tengah tengah ada masalah juga bisa langsung hubungi tim saya, ini nomornya." | Fajar merasa jauh lebih tenang dan menyepakati skema demo tanpa ragu (AI007). | **Kepercayaan: Tinggi.** Adanya narahubung langsung memberikan jaminan rasa aman bila terjadi kendala teknis. | Mempercepat keputusan eksekusi uji coba tanpa penundaan birokratis. |
+| **U009** | "...kedepannya, untuk mengurangi resiko, jangan langsung pakai kasir baru di jam sibuk. Mau gimanapun teknologi membantu, jam terbang karyawan juga penting" | Fajar menerima masukan dengan lapang dada dan mengakui kesalahannya dalam penugasan staf (AI009). | **Kepercayaan: Sangat Tinggi.** Hubungan berkembang menjadi konsultasi manajemen operasional yang saling menghormati. | Menghilangkan persepsi bahwa kegagalan jam sibuk diakibatkan oleh kecacatan sistem. |
+
+## Uji ulang dan pembelajaran
+
+* **Stimulus Uji Ulang**: Pada jam sibuk makan siang pascademo, antrean macet karena kasir baru panik, salah memasukkan pesanan dua kali, dan lupa prosedur *undo*, sehingga Fajar menuntut lembar panduan ringkas (*checklist*).
+* **Respons Mahasiswa**: Mahasiswa menunjukkan inisiatif cerdas dengan menyematkan panduan langkah langsung pada bagian atas antarmuka sistem kasir (sehingga staf tidak perlu membolak-balik kertas) dan memberikan masukan logis terkait manajemen penugasan karyawan senior di jam ramai.
+* **Indikator Keberhasilan & Transfer**: Mahasiswa membuktikan penguasaan situasi operasional lapangan secara menyeluruh. Pendekatan ini menunjukkan bahwa kesuksesan implementasi TI tidak hanya bergantung pada perangkat lunak, tetapi juga pada kesiapan mental dan pengalaman pengguna di jam sibuk.
+
+## Penilaian enam dimensi
+
+*Catatan: Seluruh skor di bawah merupakan usulan asesmen AI berbasis bukti transkrip aktual untuk keperluan moderasi dosen.*
+
+| Dimensi | Skor (1–4) | ID dan kutipan bukti | Alasan Evaluasi Berdasarkan Indikator Dimensi |
+|---|---|---|---|
+| **Tujuan dan konteks** | 3.5 | U002: "Jika memang kekurangan tenaga kerja dan AI bisa membantu, kenapa tidak dicoba?", U004, U007 | Menetapkan sasaran konkret pemecahan masalah antrean dan pesanan tercecer yang relevan dengan konteks ritel sibuk. |
+| **Persepsi dan validasi profil/status** | 3.5 | U004, U007, U008: "Fajar awalnya ragu jika teknologi malah menambah beban. Namun kini tidak", U009 | Membaca profil Fajar (ESTP) yang membutuhkan komunikasi cepat, ringkas, solutif, serta memerlukan jaring pengaman operasional. |
+| **Pemilihan dan urutan repertoar** | 3.5 | U004: memaparkan alur operasional, U006: fitur *undo*, U007: kontak siaga, U009: perbaikan antarmuka visual | Rangkaian stimulus bergerak sangat runtut merespons tuntutan praktis komunikan hingga tahap penyelesaian krisis jam sibuk. |
+| **Eksekusi jelas, peduli dan konsisten** | 3.5 | U007: "Kalo di tengah tengah ada masalah juga bisa langsung hubungi tim saya...", U009: "jam terbang karyawan juga penting" | Bahasa lugas, percaya diri, tidak bertele-tele, menunjukkan kepedulian nyata terhadap kelancaran operasional toko. |
+| **Evaluasi dan adaptasi** | 3.5 | U008: "memberikan solusi simpel dan memberikan kepercayaan...", U009: panduan visual langsung di layar | Sangat adaptif mengubah potensi komplain kasir macet menjadi perbaikan antarmuka permanen dan edukasi manajemen sif. |
+| **Refleksi dan lesson learned** | 3.5 | U010: "A: Memberikan penjelasan yang taktis... K: Tetap berpikir dari segala sudut pandang dan logis... S: Percaya diri dan tidak bertele tele" | Refleksi tajam yang menyadari pentingnya keseimbangan antara kapabilitas teknologi digital dan kesiapan operasional SDM. |
+
+**Total Skor**: $21.0 / 24.0$
+
+**Nilai Sesi 3b (Usulan AI)**: $\frac{21.0}{24} \times 100 = \mathbf{87.50}$ *(Memerlukan moderasi dosen)*
+
+## Refleksi dan lesson learned mahasiswa
+
+* **Dugaan yang Dikoreksi**: Dugaan bahwa mitra bersikap enggan karena anti-teknologi terkoreksi; keraguan Fajar murni didorong oleh ketakutan bahwa sistem baru akan memperlambat antrean dan memperberat beban kerja kasir.
+* **Stimulus Efektif**: Menjelaskan alur integrasi pesanan secara padat, menyediakan fungsi koreksi *undo*, memberikan nomor kontak bantuan langsung, serta menambahkan panduan visual di atas layar terbukti menjadi faktor penentu keberhasilan adopsi.
+* **Kemitraan Teknologi dan Jam Terbang**: Transformasi digital di tempat usaha tidak boleh mengabaikan kesiapan sumber daya manusia. Sistem secanggih apa pun tetap membutuhkan operator yang terlatih, terutama saat menghadapi tekanan antrean jam sibuk.
+
+## Tindak lanjut dan batas bukti
+
+* **Rencana Tindak Lanjut**:
+  1. Memeriksa performa tampilan petunjuk di layar kasir selama tiga hari ke depan.
+  2. Membantu Fajar menyusun SOP penugasan sif kasir agar jam sibuk selalu dipegang oleh staf yang berpengalaman.
+  3. Meninjau rekapitulasi data keuangan dan stok mingguan untuk mengevaluasi efektivitas eliminasi pesanan tercecer.
+* **Batas Bukti**: Asesmen ini berbasis interaksi teks mandiri dalam simulasi terstandarisasi. Dinamika kepanikan kasir dan stabilitas teknis jaringan di toko fisik sesungguhnya memerlukan pemantauan lapangan secara berkala.
+
+## Bobot dan nilai akhir UTS
+
+Sesuai ketentuan perhitungan nilai akhir pada dokumen PENUGASAN:
+
+$$
+\text{Nilai UTS} = 0{,}10 \times M + 0{,}18 \times (S1 + S2a + S2b + S3a + S3b)
+$$
+
+| Komponen | Bobot | Nilai komponen | Status |
+|---|---:|---|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | BT | Menunggu penilaian dosen |
+| Sesi 1 | 18% | 75.00 | Usulan AI (Telah selesai) |
+| Sesi 2a | 18% | 87.50 | Usulan AI (Telah selesai) |
+| Sesi 2b | 18% | 87.50 | Usulan AI (Telah selesai) |
+| Sesi 3a | 18% | 87.50 | Usulan AI (Telah selesai) |
+| **Sesi 3b** | **18%** | **87.50** | **Usulan AI (Telah selesai)** |
+| **Total** | **100%** | **Belum dihitung** | Menunggu nilai makalah pra-UTS dari dosen |
+
+*Catatan Ringkasan Kasus 3*:
+Rata-rata Kasus 3 (Sesi 3a & Sesi 3b) = $\frac{87.50 + 87.50}{2} = \mathbf{87.50}$ (Kontribusi Kasus 3 = 36% dari nilai total UTS).
+
+*Rekapitulasi Kelima Sesi Interaksi (90% Komponen Praktik UTS)*:
+* Sesi 1 (Dialog Diri & Refleksi Pembelajaran): **75.00**
+* Sesi 2a (Kasus 2 — Beatrix): **87.50**
+* Sesi 2b (Kasus 2 — Cyntia): **87.50**
+* Sesi 3a (Kasus 3 — Elsa): **87.50**
+* Sesi 3b (Kasus 3 — Fajar): **87.50**
+* Rata-rata 5 Sesi Simulasi: $\frac{75.00 + 87.50 + 87.50 + 87.50 + 87.50}{5} = \mathbf{85.00}$
