@@ -1,0 +1,178 @@
+---
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 2a — Kasus 2: Persahabatan dan Profesionalitas"
+author: "Virdhi Yastana Buma (NIM: 18225005)"
+date: "2026-10-15"
+lang: id
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    theme: cosmo
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Virdhi Yastana Buma |
+| NIM | 18225005 |
+| Kelas dan tanggal | K01, 15 Oktober 2026 |
+| Nomor/judul kasus | Sesi 2a; Kasus 2 — Persahabatan dan Profesionalitas |
+| Nama dan ID target | Elsa (K2-05) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Modalitas | Teks mandiri |
+| Kasus nyata/fiktif | Fiktif terstandarisasi |
+| Kelengkapan transkrip | Lengkap (seluruh giliran dialog tercatat kronologis dari Tahap A hingga F) |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+* **Brief Kasus**: Tenggat tugas kelompok 48 jam lagi. Rekan dekat (Elsa) belum mengirim bagiannya dan merasa pembagian tugas tidak adil. Mahasiswa mengajak percakapan untuk menjaga hubungan persahabatan sekaligus menyepakati tanggung jawab penyelesaian tugas kelompok secara adil dan realistis.
+* **Konteks**: Lingkungan akademik kerja kelompok dengan relasi pertemanan dekat di bawah tekanan batas waktu pengumpulan tugas kuliah.
+* **Respons Akhir yang Diharapkan**: Elsa secara terbuka menyampaikan hambatan sebenarnya, menyepakati batas pembagian tugas yang realistis, serta berkomitmen terhadap tenggat waktu pengumpulan bagian revisi dan draf analisis.
+* **Indikator Keberhasilan**: Penurunan rasa cemas dan defensif pada diri Elsa, tercapainya kesepakatan pembagian ulang beban lampiran/data mentah, serta komitmen waktu pengiriman draf H-24 jam dan mekanisme tindak lanjut saat menghadapi materi teknis baru.
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
+|---|---|---|---|
+| SWOT subjektif | Kekuatan: percaya diri dan fleksibilitas teknis. Peluang: komunikasi terbuka untuk merapikan pembagian. Kelemahan: kecenderungan menyerap beban kerja. Ancaman: potensi rekan tim lain merasa terbebani jika tidak dikomunikasikan. | U001, U002 | Sementara |
+| Attitude | Terbuka dan menerima kondisi rekan, namun tetap memegang ketegasan serta tidak ingin memberikan pemakluman yang merusak standar kerja. | U002, U007 | Sedang |
+| Knowledge | Memahami bahwa masalah sering kali berakar dari kurangnya komunikasi dan transparansi beban kerja internal kelompok. | U001, U007 | Sedang |
+| Skill | Mampu melakukan penawaran solusi cepat, pembagian tugas langsung, dan penegasan batasan waktu secara lugas. | U003, U004 | Sedang |
+| Preferensi/MBTI jika dilaporkan | Tidak dilaporkan (fokus pada komunikasi langsung berbasis aksi dan ketegasan). | U002 | Hipotesis |
+| Karakter, peran, kultur/ko-kultur | Anggota kelompok yang proaktif, berorientasi penyelesaian masalah, dan menjaga stabilitas pertemanan melalui kejujuran pembagian tugas. | U002, U003 | Sementara |
+
+## Dugaan awal profil target dan rencana
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| **Target** | Klarifikasi beban kerja yang dianggap tidak adil dan redistribusi tugas yang realistis dalam sisa waktu 48 jam. | Diagnosis hambatan beban kerja dan ketidakadilan pembagian. | Pertanyaan klarifikasi langsung dan mendengarkan keluhan tanpa memojokkan. | Rekan bersedia membeberkan rincian tugas yang membuatnya merasa terbebani. |
+| **Attention** | Menarik perhatian rekan dari rasa cemas merugikan orang lain menuju fakta alokasi tugas kelompok. | A: Menurunkan kekhawatiran dan rasa cemas membebani kelompok. | "Semua dikomunikasikan saja dengan jelas." | Komunikan merespons dengan membeberkan letak ketidakpastian yang dirasakan. |
+| **Interest** | Menumbuhkan minat komunikan untuk membedah beban tugas secara objektif bersama tim. | K: Memperjelas batasan tanggung jawab tiap anggota tim. | Memetakan peran: pembagian tugas setara dan saling melengkapi. | Komunikan menjelaskan beban tambahan perintilan lampiran dan data mentah. |
+| **Desire** | Memicu keinginan rekan untuk menuntaskan bab analisis utama tanpa merasa bersalah melepaskan perintilan. | S: Redistribusi tugas pendukung (format lampiran) agar fokus analisis tercapai. | Mengambil alih format lampiran dan data mentah secara sukarela dengan komitmen koordinasi ke anggota lain. | Komunikan menyatakan kelegaan dan menyepakati fokus pengerjaan bab analisis. |
+| **Action** | Menyepakati batas waktu final pengiriman draf analisis dan pembagian peran saat menemui kendala teknis lanjutan. | S: Menyepakati batas H-24 jam serta strategi kolaboratif saat menghadapi kendala jurnal/referensi. | Menawarkan batas waktu H-24 jam dan kolaborasi pengerjaan referensi baru tanpa melepas tanggung jawab pemahaman komunikan. | Komunikan menyetujui tenggat H-24 jam dan berkomitmen memahami materi untuk persiapan ujian/tanya jawab. |
+
+# C) Skrip Percakapan
+
+**[Tahap A — Identifikasi & Verifikasi Administrasi]**
+
+* **U001**: "kelas: k01, Tanggal: 15 Oktober, modalitas: teks mandiri"
+* **AI001**: "Data identifikasi Tahap A telah tercatat: Nama: Virdhi Yastana Buma, NIM: 18225005, Kelas: K01, Tanggal: 15 Oktober 2026, Modalitas: Teks mandiri. Sesi 2a (Kasus 2 — Persahabatan dan Profesionalitas), Komunikan: Elsa (ID: K2-05). Kita masuk ke Tahap B (Kasus dan Tujuan): Sebutkan tujuan konkret percakapan, dugaan awal hambatan target, dan rencana pendekatan komunikasi Anda."
+
+**[Tahap B — Kasus dan Perencanaan Awal]**
+
+* **U002**: "1. Tentu saja perlu kejelasan mengenai pembagian kerja yang menurutnya tidak adil. Kemudian cari jalan keluar. 2. Kemungkinan adanya beban atau pekerjaan lain. 3. Jangan menyudutkannya, bersikap terbuka, namun tetap tegas"
+* **AI002**: "Perencanaan awal Anda tercatat. Masuk ke Tahap C: Simulasi Dialog (Kasus 2a). Elsa membuka percakapan: 'Saya khawatir orang lain justru kesulitan kalau kita mengubah ini.' Bagaimana tanggapan konkret Anda?"
+
+**[Tahap C — Simulasi Dialog Awal]**
+
+* **U003**: "Aku: semua dikomunikasikan saja dengan jelas"
+* **AI003**: "Elsa: 'Iya, tapi kalau cuma dikomunikasikan tanpa tahu batasan pastinya, saya tetap kepikiran. Selama ini saya ngerasa bagian yang saya pegang terus bertambah karena tiap ada bagian yang belum selesai, larinya ke saya. Teman-teman yang lain seolah nggak kelihatan kerepotannya, sementara saya takut kalau saya nolak atau minta ubah pembagian sekarang, kerjaan kelompok malah berantakan dan orang lain yang kena getahnya. Bagian mana yang sebenarnya menurut kamu perlu kita perjelas?' Bagaimana tanggapan Anda?"
+* **U004**: "Aku: Nih, si A bagian ini, aku bagian ini, kamu bagian ini. Setara dan saling membutuhkan satu sama lain."
+* **AI004**: "Elsa: 'Dilihat dari daftarnya memang kelihatan setara di awal. Tapi kenyataannya, selain ngerjain draf bab analisis, saya juga ketambahan ngumpulin data mentah dan merapikan format lampiran yang awalnya nggak masuk di pembagian saya. Saya ngerasa beban tambahan buat beresin perintilan ini nggak kelihatan sama teman-teman yang lain, padahal itu makan waktu banget. Kalau saya lepas bagian lampiran biar bisa fokus beresin analisisnya, kira-kira siapa yang bisa bantu pegang tanpa bikin kelompok kita terhambat?' Bagaimana tanggapan Anda?"
+* **U005**: "Aku: Kalo gitu aku aja, kerjaanku udah selesai. Nanti tinggal komunikasi ke A. Semua harus tetap terbuka"
+* **AI005**: "Elsa: 'Beneran kamu mau ambil alih bagian lampiran dan data mentahnya? Makasih banyak, itu ngebantu banget dan bikin beban saya kerasa jauh lebih ringan. Kalau gitu, saya bisa fokus penuh nyelesaiin draf bab analisis sekarang. Biar kita sama-sama jelas dan nggak mepet tenggat 48 jam ini, enaknya kapan saya kirim draf analisisnya ke kamu, dan gimana cara kita saling kabari perkembangannya?' Bagaimana tanggapan Anda?"
+* **U006**: "Aku: H-24 jam sanggup? Biar setelah itu masih sempet revisi jika ada"
+* **AI006**: "Elsa: 'Sanggup. Kalau cuma bab analisis tanpa beban lampiran, H-24 jam (besok jam segini) drafnya sudah bisa saya kirim ke grup buat kamu cek. Saya bakal langsung kabarin progresnya nanti sore biar kamu tahu jalannya aman. Makasih ya sudah mau dengar dan bantu ambil bagian lampiran tadi.' Masuk ke Tahap D: Evaluasi Sementara (Persepsi awal vs fakta, kalimat paling berpengaruh, dan pemeriksaan batasan kapasitas)."
+
+**[Tahap D — Evaluasi Sementara]**
+
+* **U007**: "1. Ada bagian dari Elsa yang tidak terlihat. Namun semuanya jelas setelah komunikasi. 2. Saat penugasan dialihkan ke saya, namun tetap dikomunikasikan ke rekan kami sehingga Elsa tidak merasa asal lepas kerjaan. 3. Ketika pekerjaan saya selesai dan lancar, sementara Elsa kesulitan namun ia tetap berusaha, tidak ada yang salah membagi tugas"
+* **AI007**: "Evaluasi sementara dicatat. Masuk ke Tahap E: Uji Ulang (Re-test). Keesokan paginya (18 jam sebelum tenggat), Elsa menghubungi lagi: 'Draf analisisnya sebenarnya sudah jalan separuh, tapi ternyata ada satu sub-bab perbandingan metode yang rumit banget dan butuh referensi jurnal tambahan yang belum pernah kita bahas di kelas. Saya takut kalau maksain selesai sendiri dalam beberapa jam ke depan hasilnya malah dangkal dan nurunin nilai kelompok kita, tapi saya juga nggak enak kalau minta bantuan lagi setelah kamu ambil alih lampiran kemarin. Menurut kamu, kita baiknya gimana ya?' Bagaimana tanggapan konkret Anda?"
+
+**[Tahap E — Uji Ulang (Re-test)]**
+
+* **U008**: "Aku: Hmm, jurnal ini pernah aku bahas sama A kok. Gapapa oper ke aku sama A, nanti kamu yang rapihin. Abis itu kamu tetep baca dan ngerti supaya bisa kalo sewaktu waktu ditanya penguji"
+* **AI008**: "Elsa: 'Lega banget dengarnya kalau kamu dan A sudah familiar sama jurnal itu. Aku langsung kirim bagian sub-bab yang mentok ini ke kalian ya. Nanti pas kalian selesai bedah poin utamanya, aku yang bakal integrasikan dan rapihin bahasanya ke draf utama laporan. Aku juga bakal pelajari dan pahami alur analisisnya biar nanti pas ditanya penguji aku benar-benar siap dan bisa jawab lancar. Makasih banyak ya, kalian benar-benar penyelamat kelompok ini!' Masuk ke Tahap F: Hasil dan Refleksi Akhir."
+
+**[Tahap F — Refleksi Akhir & Konfirmasi]**
+
+* **U009**: "1. ASK & SWOT: A: Ini hal pasti akan terus kita temui sampai kapanpun. Kita harus tetap terbuka, namun jangan memberi keringanan juga. K: Semuanya harus tetap terbuka dan semua dapat diselesaikan dengan komunikasi yang jelas. S: Terbuka dan bersikap menerima namun tetap tegas. 2. Saat memberinya pembagian tugas padaku dan A, namun tetap tidak melepas tanggung jawabnya. 3. Ya"
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+Tujuan percakapan tercapai penuh. Mahasiswa berhasil mengidentifikasi beban tak terlihat yang dialami Elsa, meredistribusi tugas perapian lampiran dan penanganan jurnal secara kolaboratif, serta menetapkan batas waktu penyelesaian draf tanpa merusak relasi pertemanan.
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| **Kesimpulan SWOT** | Kekuatan: ketegasan; Kelemahan: asumsi beban luar; Peluang: transparansi tim; Ancaman: miskomunikasi antaranggota. | Kekuatan: fleksibilitas taktis dan pembagian peran adil; Kelemahan: beban kerja berlebih jika rekan pasif; Peluang: sinergi tim; Ancaman: ketergantungan rekan jika batasan tidak ditegakkan. | U002, U005, U008, U009 | Berdasarkan refleksi laporan diri dan respons simulasi terukur. |
+| **Attitude** | Menduga rekan terbebani urusan luar; bersiap tegas agar tugas tidak terlambat. | Menyadari beban tak terlihat (*invisible labor*); empati aktif disertai batasan tanggung jawab yang jelas. | U002, U007, U009 | Sikap tampak dari kesediaan menolong tanpa menghapus akuntabilitas target. |
+| **Knowledge** | Mengetahui pembagian di atas kertas tampak adil tanpa menyadari rincian beban operasional. | Memahami bahwa pembagian adil harus mencakup pekerjaan pendukung teknis serta koordinasi transparan ke seluruh tim. | U004, U007, U009 | Pemahaman terkonfirmasi lewat pengakuan pentingnya komunikasi ke anggota lain (A). |
+| **Skill** | Keterampilan instruksional umum (menuntut kejelasan dan pembagian standar). | Keterampilan mendengarkan aktif, redistribusi adaptif, penetapan tenggat (H-24 jam), dan transfer akuntabilitas belajar. | U005, U006, U008 | Ditunjukkan langsung melalui demonstrasi dialog pada fase simulasi dan uji ulang. |
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| **Episode 1 (U003–U004)** | Defensif / Cemas. Elsa takut membebani orang lain jika menolak tugas (Bukti AI002). | Mengajak komunikasi terbuka dan menunjukkan daftar alokasi tugas tim secara formal (U003, U004). | Elsa membeberkan beban kerja tersembunyi (lampiran dan data mentah) yang tidak masuk hitungan awal (AI004). | K terbuka: fakta beban teknis terungkap jelas. | Mahasiswa menyadari bahwa masalahnya bukan urusan eksternal melainkan ketimpangan beban internal. |
+| **Episode 2 (U005–U006)** | Terbuka / Lega. Elsa membutuhkan kepastian bantuan nyata untuk satu tugas (Bukti AI004). | Menawarkan diri mengambil alih format lampiran dan data mentah, serta menetapkan tenggat H-24 jam (U005, U006). | Elsa menerima dengan sangat lega, merasa bebannya ringan, dan menyanggupi batas H-24 jam (AI005, AI006). | A membaik: rasa cemas merugikan orang hilang; S terfasilitasi: fokus pada bab analisis. | Menyepakati pelaporan progres berkala untuk menjamin ketercapaian tenggat 48 jam. |
+| **Episode 3 (U008)** | Cemas teknis. Elsa menghadapi materi rumit jurnal di luar kemampuannya (Bukti AI007). | Membagi peran: mahasiswa dan A membedah inti jurnal, Elsa merapikan dan wajib memahami substansinya untuk ujian (U008). | Elsa merasa sangat tertolong, berkomitmen merapikan bahasa dan mempelajari materi agar siap diuji (AI008). | S teratasi lewat kolaborasi; A stabil karena tidak merasa bersalah berkat pembagian tanggung jawab yang setara. | Mengintegrasikan anggota ketiga (A) tanpa melepaskan akuntabilitas pemahaman Elsa terhadap tugasnya. |
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+|---|---|---|---|---|
+| **U005** | "Kalo gitu aku aja, kerjaanku udah selesai. Nanti tinggal komunikasi ke A. Semua harus tetap terbuka" | Elsa langsung merasa bebannya terangkat dan menyatakan terima kasih secara tulus (AI005). | **Rasa aman: Tinggi.** Elsa merasa tidak dihakimi dan yakin bahwa perubahan ini tidak dilakukan di belakang anggota lain. | Mengubah persepsi ancaman menjadi peluang kerja sama nyata; keterbukaan Elsa meningkat penuh. |
+| **U008** | "Hmm, jurnal ini pernah aku bahas sama A kok. Gapapa oper ke aku sama A, nanti kamu yang rapihin. Abis itu kamu tetep baca dan ngerti..." | Elsa menyatakan kelegaan yang besar dan bersedia merapikan laporan serta mempelajari alurnya (AI008). | **Kepercayaan: Tinggi.** Elsa percaya timnya suportif, adil, dan peduli pada keberhasilan akademis bersama. | Menghilangkan kecemasan kegagalan akademis tanpa menciptakan ketergantungan pasif pada Elsa. |
+
+## Uji ulang dan pembelajaran
+
+* **Stimulus Uji Ulang**: Elsa menghadapi kendala teknis baru berupa sub-bab perbandingan metode analisis yang rumit dan membutuhkan referensi jurnal tambahan 18 jam sebelum batas akhir pengumpulan.
+* **Respons Mahasiswa**: Mahasiswa menunjukkan konsistensi sikap dengan menawarkan pembagian kerja kolaboratif (membedah jurnal bersama rekan A), menugaskan Elsa merapikan hasil integrasi, dan menegaskan syarat bahwa Elsa wajib memahami substansi agar siap saat ujian.
+* **Indikator Keberhasilan & Transfer**: Mahasiswa tidak sekadar mengambil alih pekerjaan secara pasif (*people-pleasing*) atau menolak mentah-mentah (*blaming*), melainkan menerapkan prinsip *interdependensi proporsional*—menyelamatkan tenggat waktu sekaligus menjaga akuntabilitas pembelajaran individu.
+
+## Penilaian enam dimensi
+
+*Catatan: Seluruh skor di bawah merupakan usulan asesmen AI berbasis bukti transkrip aktual untuk keperluan moderasi dosen.*
+
+| Dimensi | Skor (1–4) | ID dan kutipan bukti | Alasan Evaluasi Berdasarkan Indikator Dimensi |
+|---|---|---|---|
+| **Tujuan dan konteks** | 3.5 | U002: "kejelasan mengenai pembagian kerja yang menurutnya tidak adil. Kemudian cari jalan keluar", U006: "H-24 jam sanggup? Biar setelah itu masih sempet revisi" | Menetapkan sasaran klarifikasi beban kerja dan batas waktu konkret yang sangat relevan dengan sisa waktu tenggat 48 jam. |
+| **Persepsi dan validasi profil/status** | 3.5 | U005: "Nanti tinggal komunikasi ke A. Semua harus tetap terbuka", U007: "Ada bagian dari Elsa yang tidak terlihat" | Mengidentifikasi kebutuhan rasa aman Elsa (ISFJ) yang cemas membebani orang lain, memvalidasi beban kerjanya, dan menjaga transparansi tim. |
+| **Pemilihan dan urutan repertoar** | 3.5 | U003, U005, U008: "Gapapa oper ke aku sama A, nanti kamu yang rapihin. Abis itu kamu tetep baca dan ngerti" | Urutan repertoar berjalan runtut: membuka ruang bicara, membedah alokasi tugas, mengambil alih perintilan, menyepakati tenggat, hingga membagi analisis jurnal secara kolaboratif. |
+| **Eksekusi jelas, peduli dan konsisten** | 3.5 | U005: "Kalo gitu aku aja, kerjaanku udah selesai", U008: "...supaya bisa kalo sewaktu waktu ditanya penguji" | Komunikasi lugas, solutif, tulus membantu tanpa nada menyudutkan, sekaligus konsisten menegakkan standar belajar mahasiswa. |
+| **Evaluasi dan adaptasi** | 3.5 | U007: "tidak ada yang salah membagi tugas", U008 (merespons kendala jurnal baru) | Beradaptasi cepat ketika menemukan fakta bahwa Elsa kewalahan akibat beban teknis tambahan, serta tanggap menyelesaikan kendala baru pada uji ulang. |
+| **Refleksi dan lesson learned** | 3.5 | U009: "Kita harus tetap terbuka, namun jangan memberi keringanan juga... Saat memberinya pembagian tugas padaku dan A, namun tetap tidak melepas tanggung jawabnya" | Refleksi tajam yang menyintesiskan keseimbangan antara profesionalitas tugas dan empati persahabatan secara mendalam. |
+
+**Total Skor**: $21.0 / 24.0$
+
+**Nilai Sesi 2a (Usulan AI)**: $\frac{21.0}{24} \times 100 = \mathbf{87.50}$ *(Memerlukan moderasi dosen)*
+
+## Refleksi dan lesson learned mahasiswa
+
+* **Dugaan yang Dikoreksi**: Dugaan awal bahwa rekan bermasalah karena urusan luar kelompok terkoreksi; masalah sebenarnya adalah penumpukan tugas teknis (*invisible labor*) yang tidak terkomunikasikan.
+* **Stimulus Efektif**: Menawarkan bantuan nyata pada beban pendukung sembari mengkomunikasikannya secara terbuka ke seluruh kelompok berhasil menurunkan rasa defensif rekan secara instan.
+* **Keseimbangan Profesionalitas dan Pertemanan**: Menolong rekan tidak boleh dilakukan dengan memanjakan atau melepaskan tanggung jawab belajarnya. Dukungan teknis diberikan untuk mengatasi hambatan buntu, namun pemahaman materi tetap menjadi kewajiban rekan demi kesiapan evaluasi akademis.
+
+## Tindak lanjut dan batas bukti
+
+* **Rencana Tindak Lanjut**:
+  1. Mengabari anggota A mengenai penyesuaian pengerjaan analisis jurnal bersama dalam grup percakapan kelompok.
+  2. Menyelesaikan format lampiran dan data mentah dalam 12 jam ke depan.
+  3. Memeriksa draf bab analisis yang dikirimkan Elsa pada batas H-24 jam dan melakukan review pemahaman bersama sebelum pengumpulan final.
+* **Batas Bukti**: Asesmen ini berbasis interaksi teks mandiri dalam simulasi terstandarisasi. Komitmen tindakan dan kesiapan materi Elsa di luar teks simulasi bergantung pada tindak lanjut nyata di dunia nyata.
+
+## Bobot dan nilai akhir UTS
+
+Sesuai ketentuan perhitungan nilai akhir pada dokumen PENUGASAN:
+
+$$
+\text{Nilai UTS} = 0{,}10 \times M + 0{,}18 \times (S1 + S2a + S2b + S3a + S3b)
+$$
+
+| Komponen | Bobot | Nilai komponen | Status |
+|---|---:|---|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | BT | Menunggu penilaian dosen |
+| Sesi 1 | 18% | 75.00 | Usulan AI (Telah selesai) |
+| **Sesi 2a** | **18%** | **87.50** | **Usulan AI (Telah selesai)** |
+| Sesi 2b | 18% | BT | Belum dilaksanakan |
+| Sesi 3a | 18% | BT | Belum dilaksanakan |
+| Sesi 3b | 18% | BT | Belum dilaksanakan |
+| **Total** | **100%** | **Belum dihitung** | Menunggu kelengkapan seluruh komponen |
