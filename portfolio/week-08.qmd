@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Portfolio Minggu 8 — UTS KIPP"
 week: 8
-status: "Belum dimulai"
+status: "Selesai"
 self_score: "—"
 assessor_score: "—"
 description: "Makalah pra-UTS dan lima laporan kasus individual."
@@ -16,24 +16,24 @@ Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi 
 
 | Elemen | Isi mahasiswa |
 |---|---|
-| Nama | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Periode/tanggal pelaksanaan | [Isi tanggal aktual setiap sesi pada laporan] |
-| Versi bank/paket aktif | [Salin dari PENUGASAN.md dalam ZIP Anda] |
-| Modalitas | [Teks/suara; sumber transkripsi] |
-| Status pengumpulan | [Belum diunggah/sudah diunggah; bukti bila tersedia] |
+| Nama | Virdhi Yastana Buma[cite: 1] |
+| NIM | 18225005[cite: 1] |
+| Kelas | K01 |
+| Periode/tanggal pelaksanaan | 15 Oktober 2026 |
+| Versi bank/paket aktif | Bank 2.0; paket individual 2.0[cite: 1] |
+| Modalitas | Teks mandiri (interaksi simulator AI)[cite: 4] |
+| Status pengumpulan | Sudah dikompilasi lokal / siap diunggah ke portal[cite: 1] |
 
 ## Makalah dan lima laporan
 
 | Tahap | Template untuk diisi | Target sesuai ZIP | Status | Bukti/ID atau bagian yang masih kurang |
 |---|---|---|---|---|
-| Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | Belum dimulai | [Isi] |
-| 1 | [hasil_1.qmd](UTS/hasil_1.qmd) | Diri; [nama/ID pembanding] | Belum dimulai | [Isi] |
-| 2a | [hasil_2a.qmd](UTS/hasil_2a.qmd) | [Nama/ID target pertama kasus 2] | Belum dimulai | [Isi] |
-| 2b | [hasil_2b.qmd](UTS/hasil_2b.qmd) | [Nama/ID target kedua; berbeda dari 2a] | Belum dimulai | [Isi] |
-| 3a | [hasil_3a.qmd](UTS/hasil_3a.qmd) | [Nama/ID target pertama kasus 3] | Belum dimulai | [Isi] |
-| 3b | [hasil_3b.qmd](UTS/hasil_3b.qmd) | [Nama/ID target kedua; berbeda dari 3a] | Belum dimulai | [Isi] |
+| Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | Selesai | Dokumen kajian konseptual lengkap[cite: 3] |
+| 1 | [hasil_1_18225005.qmd](UTS/hasil_1_18225005.qmd) | Diri; Tokoh Pembanding: Fajar (K1-06)[cite: 1, 3] | Selesai | Transkrip dan evaluasi lengkap Bagian A–D[cite: 4] |
+| 2a | [hasil_2a_18225005.qmd](UTS/hasil_2a_18225005.qmd) | Budi (K2-02) | Selesai | Transkrip dan evaluasi lengkap Bagian A–D[cite: 4] |
+| 2b | [hasil_2b_18225005.qmd](UTS/hasil_2b_18225005.qmd) | Cici (K2-03) | Selesai | Transkrip dan evaluasi lengkap Bagian A–D[cite: 4] |
+| 3a | [hasil_3a_18225005.qmd](UTS/hasil_3a_18225005.qmd) | Elsa (K3-05) | Selesai | Transkrip dan evaluasi lengkap Bagian A–D[cite: 4] |
+| 3b | [hasil_3b_18225005.qmd](UTS/hasil_3b_18225005.qmd) | Fajar (K3-06)[cite: 1, 2] | Selesai | Transkrip dan evaluasi lengkap Bagian A–D[cite: 4] |
 
 {{< include "../includes/uts-penilaian.md" >}}
 
@@ -41,11 +41,11 @@ Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi 
 
 | Komponen | Bobot | Self-assessment /100 | Usulan AI /100 | Nilai resmi dosen /100 | Status bukti |
 |---|---:|---|---|---|---|
-| Makalah | 10% | — | — | — | Belum dinilai |
-| Sesi 1 | 18% | — | — | — | Belum dinilai |
-| Sesi 2a | 18% | — | — | — | Belum dinilai |
-| Sesi 2b | 18% | — | — | — | Belum dinilai |
-| Sesi 3a | 18% | — | — | — | Belum dinilai |
-| Sesi 3b | 18% | — | — | — | Belum dinilai |
+| Makalah | 10% | — | — | — | Memerlukan penilaian dosen[cite: 1, 3] |
+| Sesi 1 | 18% | 75,0 | 75,0 | — | Transkrip lengkap di `hasil_1_18225005.qmd` (Skor 18/24)[cite: 1, 3] |
+| Sesi 2a | 18% | 83,3 | 83,3 | — | Transkrip lengkap di `hasil_2a_18225005.qmd` (Skor 20/24)[cite: 1, 3] |
+| Sesi 2b | 18% | 87,5 | 87,5 | — | Transkrip lengkap di `hasil_2b_18225005.qmd` (Skor 21/24)[cite: 1, 3] |
+| Sesi 3a | 18% | 83,3 | 83,3 | — | Transkrip lengkap di `hasil_3a_18225005.qmd` (Skor 20/24)[cite: 1, 3] |
+| Sesi 3b | 18% | 87,5 | 87,5 | — | Transkrip lengkap di `hasil_3b_18225005.qmd` (Skor 21/24)[cite: 1, 3] |
 
-**Nilai akhir UTS resmi:** Belum dihitung. Isi `assessor_score` dengan nilai akhir /100 hanya setelah seluruh komponen resmi tersedia; jangan memakai total /20.
+**Nilai akhir UTS resmi:** Belum dihitung. Isi `assessor_score` dengan nilai akhir /100 hanya setelah seluruh komponen resmi tersedia; jangan memakai total /20[cite: 1, 3].
