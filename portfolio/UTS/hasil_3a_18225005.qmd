@@ -1,0 +1,177 @@
+## title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 3a — Kasus 3: Menawarkan Solusi TI dan AI"
+author: "Virdhi Yastana Buma (NIM: 18225005)"
+date: "2026-10-15"
+lang: id
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    theme: cosmo
+execute:
+  eval: false
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Virdhi Yastana Buma |
+| NIM | 18225005 |
+| Kelas dan tanggal | K01, 15 Oktober 2026 |
+| Nomor/judul kasus | Sesi 3a; Kasus 3 — Menawarkan Solusi TI dan AI |
+| Nama dan ID target | Elsa (K3-05) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Modalitas | Teks mandiri |
+| Kasus nyata/fiktif | Fiktif terstandarisasi |
+| Kelengkapan transkrip | Lengkap (seluruh giliran dialog tercatat kronologis dari Tahap A hingga F) |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+* **Brief Kasus**: Customer (pengelola usaha) menangani pertanyaan pelanggan yang berulang dan pesanan yang kerap tercecer, sementara tenaga kerja sangat terbatas. Ia belum yakin membutuhkan AI. Mahasiswa bertugas menggali kebutuhan operasionalnya dan menawarkan solusi TI/AI yang sesuai secara realistis, dengan target kesepakatan uji coba konkret.
+* **Konteks**: Lingkungan usaha mikro/ritel dengan staf senior yang terbiasa menggunakan metode pencatatan manual fisik dan sangat mengutamakan kehangatan layanan personal kepada pelanggan.
+* **Respons Akhir yang Diharapkan**: Elsa secara terbuka menyampaikan kekhawatiran terhadap staf dan pelanggan, menerima penempatan sistem TI/AI pada fungsi *back-office* (stok dan pesanan), menyepakati jadwal pendampingan singkat 10 menit setelah toko tutup, serta menyetujui uji coba di lapangan dengan penyesuaian antarmuka yang familier.
+* **Indikator Keberhasilan**: Penurunan rasa cemas Elsa terkait hilangnya sentuhan personal, klarifikasi fungsi pendukung sistem tanpa menggantikan peran manusia, persetujuan jadwal pelatihan konkret di luar jam sibuk, serta komitmen penyesuaian tombol antarmuka saat jam ramai pada fase uji ulang.
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
+|---|---|---|---|
+| SWOT subjektif | Kekuatan: kemampuan persuasi, ketegasan argumen, dan kesediaan mendampingi langsung. Kelemahan: perumpamaan awal yang berisiko meremehkan kecemasan pengguna (analogi gim). Peluang: menjembatani tradisi dan teknologi secara berdampingan. Ancaman: penolakan total jika pengguna merasa budaya operasionalnya dirusak. | U001, U002, U007 | Sedang |
+| Attitude | Meyakini bahwa teknologi tidak boleh menggantikan esensi partisipasi manusia; inovasi dan kebiasaan tradisi harus bisa berjalan berdampingan tanpa saling mematikan. | U002, U007 | Sedang |
+| Knowledge | Memahami bahwa resistensi teknologi umumnya lahir dari ketakutan akan disrupsi rutinitas kerja dan hilangnya kehangatan relasi pelanggan. | U002, U005, U007 | Sedang |
+| Skill | Mampu mereformulasi analogi secara adaptif (dari gim ke remot TV), menyusun batasan uji coba yang realistis (10 menit di luar jam toko), dan menawarkan kustomisasi UI fleksibel. | U003, U004, U006 | Sedang |
+| Preferensi/MBTI jika dilaporkan | Tidak dilaporkan (berorientasi pada persuasi fungsional, analogi praktis, dan kepastian eksekusi). | U002 | Hipotesis |
+| Karakter, peran, kultur/ko-kultur | Konsultan solusi TI muda yang solutif, pragmatis, dan fleksibel merespons budaya kerja usaha konvensional. | U002, U003, U004 | Sementara |
+
+## Dugaan awal profil target dan rencana
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| **Target** | Mengajak pemilik usaha mencoba solusi AI sebagai alternatif bantuan efisiensi operasional di tengah keterbatasan staf. | Menggali kecemasan layanan dan kesiapan adopsi teknologi staf. | Membuka ruang empati, mendengarkan kekhawatiran operasional tanpa memaksakan fitur canggih. | Elsa mengungkapkan alasan utama keengganannya mengadopsi sistem otomatis. |
+| **Attention** | Menarik perhatian dari rasa cemas disrupsi menuju fakta bahwa teknologi berfungsi sebagai asisten di balik layar. | A: Menurunkan kekhawatiran bahwa AI akan menggantikan interaksi ramah staf ke pelanggan. | "Tenang aja, AI tidak selamanya sepenuhnya robot... peran AI di sini ada pada sistemnya." | Elsa memahami batas operasional sistem dan merasa lebih tenang. |
+| **Interest** | Menumbuhkan minat dengan memaparkan bantuan pencatatan stok dan alur pesanan yang teratur. | K: Menjelaskan bahwa interaksi utama pelanggan tetap dipegang manusia, sementara AI mencatat stok dan arus kas. | "Interaksi utama dengan pelanggan tetap dipegang manusia asli. Peran AI di sini ada pada sistemnya..." | Elsa mengakui masalah pesanan tercecer saat jam sibuk dan menanyakan skema pelatihan. |
+| **Desire** | Memicu keinginan adopsi melalui perumpamaan yang mudah dipahami dan waktu belajar yang tidak membebani staf. | S: Menyediakan analogi sederhana (remot TV) serta jadwal latihan 10 menit setelah tutup toko dengan pendampingan langsung. | Mengganti analogi gim dengan remot TV dan menawarkan pendampingan 10 menit pascatoko tutup. | Elsa menyetujui sesi pendampingan 10 menit mulai besok sore. |
+| **Action** | Mengamankan keberlanjutan adopsi saat muncul kepanikan teknis pada jam sibuk di fase uji coba. | S: Mengadaptasi tampilan antarmuka (UI) agar menyerupai tombol familier dan menawarkan pendampingan saat jam makan siang. | "Sistem bisa dibikin sesuai kebutuhan kamu... dengan tampilan yang sama sehingga staf tidak merasa itu hal baru." | Elsa lega, menyepakati penyesuaian tombol dan meminta pendampingan saat jam sibuk esok hari. |
+
+# C) Skrip Percakapan
+
+**[Tahap A — Identifikasi & Verifikasi Administrasi]**
+
+* **U001**: "kelas: k01, Tanggal: 15 Oktober, modalitas: teks mandiri"
+* **AI001**: "Data identifikasi Tahap A telah tercatat: Nama: Virdhi Yastana Buma, NIM: 18225005, Kelas: K01, Tanggal: 15 Oktober 2026, Modalitas: Teks mandiri. Sesi 3a (Kasus 3 — Menawarkan Solusi TI dan AI), Komunikan: Elsa (ID: K3-05). Kita masuk ke Tahap B (Kasus dan Tujuan): Sebutkan tujuan konkret percakapan, dugaan awal hambatan target, dan rencana pendekatan komunikasi Anda."
+
+**[Tahap B — Kasus dan Perencanaan Awal]**
+
+* **U002**: "1. Jika memang kekurangan tenaga kerja dan AI bisa membantu, kenapa tidak dicoba? 2. Di awal ragu dan merasa memerlukan adaptasi yang berat 3. Memberi contoh yang meyakinkan"
+* **AI002**: "Perencanaan awal untuk Sesi 3a dicatat. Masuk ke Tahap C: Simulasi Dialog (Kasus 3a). Elsa menyambut Anda dengan raut ragu, lalu membuka percakapan: 'Saya khawatir orang lain justru kesulitan kalau kita mengubah ini.' Bagaimana tanggapan konkret Anda?"
+
+**[Tahap C — Simulasi Dialog Awal]**
+
+* **U003**: "Aku: Memang benar, terkadang teknologi mementingkan fungsi namun malah melupakan hal utama, yaitu partisipasi aktif anggota. Tenang aja, AI tidak selamanya sepenuhnya robot."
+* **AI003**: "Elsa: 'Nah, itu yang paling saya takutkan. Usaha kami ini jalan dan langganan bertahan karena pendekatan kami selalu personal dan ramah ke pelanggan. Kalau tiba-tiba dibalas sama sistem otomatis yang kaku, saya takut pelanggan merasa diabaikan atau kecewa. Staf kami juga cuma sedikit dan sudah terbiasa dengan cara manual, jadi kalau ada pertanyaan pelanggan yang rumit atau butuh penanganan khusus, bagaimana sistem ini memastikan pesan itu nggak terlewat dan tetap bisa ditangani langsung oleh orang?' Bagaimana tanggapan Anda?"
+* **U004**: "Aku: Interaksi utama dengan pelanggan tetap dipegang manusia asli. Peran AI di sini ada pada sistemnya. Seperti pemantauan stok, pemasukan, pengeluaran, dan lain lain yang bisa di sesuaikan sesuai kebutuhan kamu"
+* **AI004**: "Elsa: 'Oh, jadi sistemnya lebih fokus beresin pencatatan di belakang layar ya, bukan langsung gantiin kami pas ngobrol sama pelanggan? Itu bikin saya jauh lebih tenang, soalnya selama ini pesanan memang sering tercecer pas staf lagi sibuk balas chat sambil bolak-balik cek stok manual. Cuma kalau mau diterapkan di sini, staf kami kan belum pernah pakai sistem beginian dan pasti bingung di awal. Kira-kira langkah latihannya gimana, dan kapan kita bisa mulai uji coba kecil-kecilan dulu tanpa bikin operasional toko keganggu?' Bagaimana tanggapan Anda?"
+* **U005**: "Aku: Penggunaannya mudah banget. Sama main game juga pasti pegawai kamu ngerasa lebih susah main game"
+* **AI005**: "Elsa: 'Dibilang lebih gampang dari main game sih kedengarannya santai ya. Tapi staf saya bukan anak-anak yang hobi main game—mereka orang tua yang sudah terbiasa pakai buku catatan fisik. Yang saya tanyakan tadi itu langkah pendampingan konkretnya: bagaimana kita melatih mereka langkah demi langkah tanpa bikin mereka panik saat toko lagi ramai, dan kapan kita mulai jadwal latihannya?' Bagaimana tanggapan Anda?"
+* **U006**: "Aku: Ga berbelit kok. Kayak mengoprasikan remot tv aja. 10 menit setelah toko tutup apakah memberatkan mereka?"
+* **AI006**: "Elsa: 'Kalau analoginya sesederhana tombol remot TV dan cuma butuh waktu 10 menit setelah toko tutup, itu terdengar jauh lebih masuk akal dan nggak bakal membebani mereka. Jadi jam operasional tetap aman dan staf nggak keteteran pas lagi ramai melayani pembeli. Boleh, kita coba jadwalkan latihan singkat 10 menit itu mulai besok sore pas toko tutup. Kamu bakal dampingi langsung kan buat nunjukin cara pakainya, biar kalau mereka bingung bisa langsung tanya?' Masuk ke Tahap D: Evaluasi Sementara."
+
+**[Tahap D — Evaluasi Sementara]**
+
+* **U007**: "1. Ya, dia hanya fokus kepada pelanggan dan takut pegawainya tidak terbiasa. 2. Analogi dengan remot tv. Dia mengatakan pegawainya banyak orang tua, namun remot tv pun bukan benda asing untuk orang tua. 10 menit setelah kerja ditambah ada aku sebagai pendamping dirasa tidak memberatkan. 3. Cukup. Terkadang 10 akan tidak terasa. Namun saya meyakinkan bahwa 10 menit cukup agar meyakinkan bahwa memang mudah mengoprasikannya"
+* **AI007**: "Evaluasi sementara dicatat. Masuk ke Tahap E: Uji Ulang (Re-test). Keesokan harinya, sesi 10 menit berjalan lancar untuk fungsi dasar. Namun di jam makan siang saat toko ramai, Elsa datang tegang: 'Latihan 10 menit kemarin memang bikin staf paham cara masukin data dasar. Tapi barusan pas jam makan siang toko lagi ramai banget, ada pelanggan yang mau ganti varian pesanan yang sudah tercatat di sistem. Staf saya langsung panik karena takut salah pencet dan layarnya malah error. Akhirnya mereka balik lagi pakai kertas nota dan antrean sempat macet. Kalau pas situasi toko lagi chaos begini sistemnya bikin staf gugup, bagaimana kita mengatasinya tanpa membuat mereka merasa gagal atau bikin pelanggan nunggu lama?' Bagaimana tanggapan konkret Anda?"
+
+**[Tahap E — Uji Ulang (Re-test)]**
+
+* **U008**: "Aku: Seperti yang aku bilang di awal, sistem bisa dibikin sesuai kebutuhan kamu. Kalo itu memang kebutuhan kamu, sistemnya bisa disesuaikan. Tentu saja dengan tampilan yang sama sehingga staff tidak merasa itu hal baru atau asing"
+* **AI008**: "Elsa: 'Lega banget dengarnya kalau tampilannya bisa disesuaikan sama kebiasaan mereka dan alurnya nggak diubah jadi asing. Jadi kalau ada perubahan mendadak pas jam ramai, mereka cukup pencet tombol yang sudah familier tanpa takut salah sistem. Kalau kamu bisa bantu atur penyesuaian tombol itu dan dampingi sebentar pas jam makan siang besok, staf pasti jauh lebih tenang dan percaya diri pakainya. Makasih banyak ya, kamu benar-benar mengerti kondisi dan kekhawatiran kami di lapangan.' Masuk ke Tahap F: Hasil dan Refleksi Akhir."
+
+**[Tahap F — Refleksi Akhir & Konfirmasi]**
+
+* **U009**: "1. ASK dan SWOT: A: Cukup yakinkan dengan argumen, berikan analogi yang masuk akal, dan berikan contoh jika ada sebagai testimoni. K: Penggunaan teknologi sering kali melupakan apa yang sudah menjadi tradisi yang tidak ingin dilepas. Maka itu tradisi dan perkembangan harus berdampingan. S: Meyakinkan dengan analogi yang masuk akal dan memberi contoh jika ada. 2. Refleksi Relasional: Saat memberikan penjelasan dengan analogi dan memberi jaminan untuk pengajaran penggunaan sistem. 3. Ya. Buatkan laporan lengkap UTS KIPP 2026 Sesi 3a dengan nama berkas hasil_3a_18225005.qmd..."
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+Tujuan tindakan tercapai penuh. Mahasiswa berhasil meyakinkan pengelola usaha konvensional untuk mengadopsi solusi TI/AI melalui pendekatan komplementer (menjaga peran interaksi manusia dan mengotomatiskan pencatatan operasional), menyepakati jadwal pelatihan 10 menit di luar jam operasional, serta memberikan solusi penyesuaian tombol antarmuka yang familier bagi staf senior saat menghadapi situasi genting di fase uji ulang.
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| **Kesimpulan SWOT** | Kekuatan: rasa percaya diri dan dorongan adopsi; Kelemahan: perbandingan yang kurang pas dengan profil staf; Peluang: otomasi proses internal; Ancaman: resistensi staf senior. | Kekuatan: persuasi adaptif dan komitmen pendampingan nyata; Kelemahan: perlu kehati-hatian dalam pemilihan metafora awal; Peluang: harmonisasi teknologi dan tradisi layanan personal; Ancaman: ketergantungan staf pada pendamping jika pelatihan mandiri kurang. | U002, U005, U006, U008, U009 | Berdasarkan laporan diri mahasiswa dan verifikasi transkrip simulasi. |
+| **Attitude** | Beranggapan adopsi AI adalah hal mutlak yang harus dicoba di tengah krisis staf tanpa memperhitungkan aspek kenyamanan budaya. | Meyakini bahwa teknologi harus menghormati kebiasaan kerja yang telah mengakar; inovasi harus melayani manusia tanpa mencederai partisipasi aktif staf. | U002, U003, U007, U009 | Sikap tampak dari penolakan terhadap otomatisasi penuh interaksi pelanggan. |
+| **Knowledge** | Memahami fungsionalitas teknologi secara umum, namun minim pemahaman terkait demografi staf pengguna (generasi senior). | Memahami pentingnya pemisahan antara interaksi depan (*front-facing*) dan efisiensi belakang (*back-office*), serta pentingnya fleksibilitas UI. | U004, U007, U009 | Pemahaman terkonfirmasi lewat penjelasan alur stok dan eskalasi manusia. |
+| **Skill** | Keterampilan persuasi umum (menggunakan analogi gim yang tidak tepat sasaran bagi staf lansia). | Keterampilan komunikasi empati kontekstual (analogi remot TV), penjadwalan latihan non-disruptif (10 menit), dan kustomisasi sistem adaptif. | U005, U006, U008 | Ditunjukkan langsung melalui revisi analogi dan penyelesaian kendala jam sibuk. |
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| **Episode 1 (U003–U004)** | Defensif / Cemas. Elsa takut layanan personal hilang dan staf bingung jika ada masalah rumit (Bukti AI002, AI003). | Memvalidasi bahwa teknologi sering lupa peran manusia, lalu menegaskan AI hanya fokus pada pencatatan stok dan kas di belakang layar (U003, U004). | Elsa merasa jauh lebih tenang, mengakui kendala pesanan tercecer, dan menanyakan mekanisme latihan (AI004). | A membaik: rasa takut digantikan robot hilang; K terbuka: batas kerja AI dipahami. | Mahasiswa membatasi ruang lingkup teknologi hanya sebagai asisten administrasi. |
+| **Episode 2 (U005–U006)** | Ragu / Terancam. Elsa merasa staf seniornya diremehkan oleh perbandingan gim (Bukti AI004, AI005). | Mengoreksi analogi menjadi 'remot TV' yang akrab bagi orang tua dan menawarkan latihan 10 menit setelah toko tutup (U006). | Elsa setuju penuh, merasa waktu 10 menit sangat masuk akal dan meminta mahasiswa mendampingi langsung (AI006). | A pulih; S terfasilitasi lewat jadwal latihan konkret tanpa mengganggu jam operasional. | Mahasiswa cepat mengganti gaya bahasa ke instrumen rumah tangga yang netral usia. |
+| **Episode 3 (U008)** | Cemas teknis / Panik. Staf panik saat jam makan siang karena ada perubahan pesanan mendadak (Bukti AI007). | Menenangkan dengan jaminan bahwa sistem dapat dikustomisasi sesuai kebiasaan lama dan tampilan tombol tetap familier (U008). | Elsa merasa sangat lega, mengapresiasi empati mahasiswa, dan meminta pendampingan singkat esok siang (AI008). | S teruji: solusi adaptif meredakan ketegangan operasional di lapangan. | Mahasiswa tidak menyalahkan staf, melainkan menyesuaikan perangkat lunak dengan kebutuhan pengguna. |
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+|---|---|---|---|---|
+| **U003** | "Memang benar, terkadang teknologi mementingkan fungsi namun malah melupakan hal utama, yaitu partisipasi aktif anggota..." | Elsa langsung sepakat dan merasa kekhawatiran batinnya divalidasi dengan jujur (AI003). | **Rasa aman: Tinggi.** Elsa merasa berhadapan dengan konsultan yang memanusiakan pekerja, bukan sekadar penjual aplikasi. | Membuka keterbukaan Elsa untuk membeberkan kerentanan alur pemesanan manual tokonya. |
+| **U006** | "Ga berbelit kok. Kayak mengoprasikan remot tv aja. 10 menit setelah toko tutup apakah memberatkan mereka?" | Elsa menerima tawaran jadwal karena jam kerja staf terlindungi (AI006). | **Kepercayaan: Tinggi.** Elsa percaya mahasiswa memperhatikan batas energi staf seniornya. | Menghilangkan persepsi bahwa adopsi teknologi memerlukan investasi waktu belajar yang menyiksa. |
+| **U008** | "...sistem bisa dibikin sesuai kebutuhan kamu... dengan tampilan yang sama sehingga staff tidak merasa itu hal baru atau asing" | Elsa mengungkapkan kelegaan mendalam dan apresiasi terhadap empati mahasiswa (AI008). | **Kepercayaan: Sangat Tinggi.** Hubungan bertransformasi menjadi kemitraan kolaboratif jangka panjang. | Mengukuhkan kepastian uji coba dan menghilangkan keraguan staf untuk mencoba kembali. |
+
+## Uji ulang dan pembelajaran
+
+* **Stimulus Uji Ulang**: Di hari pertama implementasi, jam sibuk makan siang memicu kepanikan staf karena ada perubahan pesanan mendadak yang membuat mereka takut salah pencet sistem dan beralih kembali ke nota kertas.
+* **Respons Mahasiswa**: Mahasiswa menunjukkan kesiapan adaptif dengan menegaskan bahwa sistem bersifat lentur dan antarmukanya dapat diubah agar persis menyerupai format yang sudah mereka kuasai selama bertahun-tahun.
+* **Indikator Keberhasilan & Transfer**: Alih-alih memaksakan staf untuk beradaptasi dengan sistem (*user adaptation*), mahasiswa menerapkan prinsip *human-centered design* di mana teknologilah yang menyesuaikan diri dengan keterbatasan kognitif pengguna senior.
+
+## Penilaian enam dimensi
+
+*Catatan: Seluruh skor di bawah merupakan usulan asesmen AI berbasis bukti transkrip aktual untuk keperluan moderasi dosen.*
+
+| Dimensi | Skor (1–4) | ID dan kutipan bukti | Alasan Evaluasi Berdasarkan Indikator Dimensi |
+|---|---|---|---|
+| **Tujuan dan konteks** | 3.5 | U002: "Jika memang kekurangan tenaga kerja dan AI bisa membantu, kenapa tidak dicoba?", U004, U006 | Menetapkan sasaran uji coba sistem bantuan operasional yang relevan dengan konteks toko kecil dan keterbatasan staf. |
+| **Persepsi dan validasi profil/status** | 3.5 | U003: "teknologi mementingkan fungsi namun malah melupakan hal utama...", U007: "dia hanya fokus kepada pelanggan dan takut pegawainya tidak terbiasa" | Tepat menangkap profil Elsa (ISFJ) yang menjunjung tinggi keharmonisan layanan manusia dan perlindungan terhadap staf senior. |
+| **Pemilihan dan urutan repertoar** | 3.5 | U003, U004, U006: "Kayak mengoprasikan remot tv aja. 10 menit setelah toko tutup...", U008 | Mampu mengoreksi repertoar yang salah (analogi gim) menjadi analogi yang efektif (remot TV) dan menuntaskannya dengan fleksibilitas UI. |
+| **Eksekusi jelas, peduli dan konsisten** | 3.5 | U004: "Interaksi utama dengan pelanggan tetap dipegang manusia asli", U008: "...dengan tampilan yang sama sehingga staff tidak merasa asing" | Komunikasi sangat empatik, menghargai batas operasional usaha, konsisten menjamin ketiadaan disrupsi pada layanan pelanggan. |
+| **Evaluasi dan adaptasi** | 3.5 | U007: "Analogi dengan remot tv... bukan benda asing untuk orang tua", U008 (merespons kendala jam ramai) | Mengevaluasi kekeliruan metafora awal secara jujur dan adaptif merancang penyesuaian teknis antarmuka saat sistem macet di lapangan. |
+| **Refleksi dan lesson learned** | 3.5 | U009: "Penggunaan teknologi sering kali melupakan apa yang sudah menjadi tradisi... tradisi dan perkembangan harus berdampingan" | Sintesis refleksi yang matang mengenai pentingnya keselarasan nilai budaya lokal/tradisi dengan transformasi digital modern. |
+
+**Total Skor**: $21.0 / 24.0$
+
+**Nilai Sesi 3a (Usulan AI)**: $\frac{21.0}{24} \times 100 = \mathbf{87.50}$ *(Memerlukan moderasi dosen)*
+
+## Refleksi dan lesson learned mahasiswa
+
+* **Dugaan yang Dikoreksi**: Asumsi awal bahwa meyakinkan pengguna cukup dengan menyederhanakan perbandingan ternyata keliru jika analogi yang dipakai (video gim) tidak sesuai dengan usia dan latar belakang pengguna.
+* **Stimulus Efektif**: Menjamin bahwa teknologi hanya beroperasi di sistem belakang layar tanpa mencabut kehangatan interaksi kasir, serta analogi benda sehari-hari (remot TV), menjadi faktor penentu persetujuan target.
+* **Harmonisasi Tradisi dan Inovasi**: Pelajaran paling fundamental adalah transformasi digital tidak boleh bersikap arogan terhadap tradisi yang sudah berjalan sukses. Teknologi terbaik adalah teknologi yang tidak terasa asing bagi penggunanya.
+
+## Tindak lanjut dan batas bukti
+
+* **Rencana Tindak Lanjut**:
+  1. Mengkonfigurasi tombol perubahan pesanan pada dasbor agar memiliki label dan warna yang mencolok serta intuitif.
+  2. Menghadiri toko esok hari pukul 12.00 untuk memberikan pendampingan langsung selama jam makan siang.
+  3. Melakukan evaluasi bersama Elsa di akhir pekan untuk meninjau apakah pesanan yang tercecer berkurang secara nyata.
+* **Batas Bukti**: Asesmen ini berbasis interaksi teks mandiri dalam simulasi terstandarisasi. Kesuksesan teknis integrasi perangkat lunak dan stabilitas mental staf di dunia nyata bergantung pada eksekusi teknis dan pelatihan berkelanjutan.
+
+## Bobot dan nilai akhir UTS
+
+Sesuai ketentuan perhitungan nilai akhir pada dokumen PENUGASAN:
+
+$$
+\text{Nilai UTS} = 0{,}10 \times M + 0{,}18 \times (S1 + S2a + S2b + S3a + S3b)
+$$
+
+| Komponen | Bobot | Nilai komponen | Status |
+|---|---:|---|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | BT | Menunggu penilaian dosen |
+| Sesi 1 | 18% | 75.00 | Usulan AI (Telah selesai) |
+| Sesi 2a | 18% | 87.50 | Usulan AI (Telah selesai) |
+| Sesi 2b | 18% | 87.50 | Usulan AI (Telah selesai) |
+| **Sesi 3a** | **18%** | **87.50** | **Usulan AI (Telah selesai)** |
+| Sesi 3b | 18% | BT | Belum dilaksanakan |
+| **Total** | **100%** | **Belum dihitung** | Menunggu kelengkapan seluruh komponen |
