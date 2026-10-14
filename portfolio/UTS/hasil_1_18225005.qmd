@@ -1,0 +1,145 @@
+---
+title: "Laporan Asesmen UTS KIPP 2026 — Sesi 1: Memimpin Diri dan Terus Belajar"
+author: "Virdhi Yastana Buma (NIM: 18225005)"
+date: "2026-10-15"
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    theme: cosmo
+---
+
+# A. Identifikasi dan Perencanaan Awal
+
+## 1. Identifikasi Mahasiswa dan Sesi
+- **Nama Mahasiswa**: Virdhi Yastana Buma
+- **NIM**: 18225005
+- **Kelas**: K01
+- **Tanggal Pelaksanaan**: 15 Oktober 2026
+- **Modalitas**: Teks mandiri
+- **Sesi**: 1 (Urutan 1 dari 5 sesi UTS)
+- **Kasus Konseptual**: 1 — Memimpin Diri dan Terus Belajar
+- **Komunikan Pembanding**: Fajar (ID: K1-06)
+- **Metode Target**: Cermin kasus 1 berdasarkan digit terakhir NIM modulo 6 + 1 ($5 \pmod 6 + 1 = 6$)
+- **Nama Berkas Laporan**: `hasil_1_18225005.qmd`
+
+## 2. Perencanaan dan Pemetaan Awal
+- **Kemampuan Target Pengembangan**: Manajemen Waktu.
+- **Hambatan Utama**: Rasa malas dan kecenderungan menunda pengerjaan hingga mendekati batas waktu.
+- **Analisis Awal ASK Diri**:
+  - *Attitude (Sikap)*: Kesadaran internal yang kuat bahwa pola menunda tidak boleh dibiarkan berlanjut ("Masa begini mulu sih, Ga boleh gini").
+  - *Knowledge (Pemahaman)*: Memahami gaya kerja pribadi yang cenderung menyukai pola *sprint* (menyelesaikan tugas sampai tuntas dalam satu kali jalan, kecuali jika beban kerja mutlak harus dipecah).
+  - *Skill (Keterampilan)*: Menetapkan target atau batas tenggat waktu mandiri yang harus dicapai dalam rentang waktu tertentu.
+- **Tujuan Sesi**: Mengidentifikasi mekanisme dialog internal yang efektif saat rasa malas menyerang, memetakan risiko kerja berbasis *sprint*, serta menguji coba cara memfasilitasi rekan kerja yang memiliki kendala eksekusi serupa melalui langkah-langkah praktis dan terukur.
+
+---
+
+# B. Skrip Percakapan Aktual
+
+Berikut adalah transkrip kronologis interaksi dialog diri dan simulasi tokoh pembanding:
+
+**[Tahap A — Identifikasi & Verifikasi Administrasi]**
+
+* **U001**: "kelas: k01, Tanggal: 15 Oktober, modalitas: teks mandiri"
+* **AI001**: "Data identifikasi Tahap A telah tercatat: Nama: Virdhi Yastana Buma, NIM: 18225005, Kelas: K01, Tanggal: 15 Oktober 2026, Modalitas: Teks mandiri. Kita masuk ke Tahap B (Kasus dan Tujuan): Sebutkan kemampuan yang ingin dikembangkan, hambatan utama, analisis awal ASK diri, dan tujuan konkret sesi."
+
+**[Tahap B — Kasus dan Tujuan Diri]**
+
+* **U002**: "1. Saya ingin mengembangkan kemampuan manajemen waktu. 2. Hambatan yang biasanya muncul adalah rasa malas. 3. A: Saya merasa tidak boleh terus begini. B: (kosong). C: Karena saya terkadang malas, saya sering membuat target atau tugas yang harus dicapai dalam suatu waktu tertentu."
+* **AI002**: "Tercatat fokus pengembangan manajemen waktu dengan hambatan rasa malas. Bagaimanakah Knowledge (K) Anda mengenai manajemen waktu dan apa satu tujuan konkret yang ingin dicapai melalui sesi ini?"
+* **U003**: "K: saya lebih sering menyelesaikan tugas hingga selesai, kecuali jika tidak mungkin diselesaikan dalam sekali jalan"
+* **AI003**: "Pemetaan awal ASK diri tercatat. Masuk ke Tahap C: Simulasi dan Dialog Diri. Bayangkan tugas besar kuliah menumpuk dan rasa malas muncul. 1. Apa pesan konkret yang disampaikan kepada diri sendiri? 2. Bagaimana respons emosi/pikiran setelah mendengar pesan tersebut?"
+
+**[Tahap C — Simulasi Dialog Diri dan Tokoh Pembanding]**
+
+* **U004**: "1: Masa begini mulu sih, Ga boleh gini. 2: Terdorong dan merasa harus memulai"
+* **AI004**: "Pesan peneguran berhasil memicu dorongan awal. Namun pola sprint rentan kelelahan. Sekarang masuk ke Cermin Tokoh Pembanding (Fajar, ID K1-06). Fajar berkata: 'Bisa langsung ditunjukkan manfaatnya? Saya tidak punya banyak waktu.' Bagaimana tanggapan konkret Anda?"
+* **U005**: "Aku: Dengan manajemen waktu yang baik, kita seharusnya bisa membagi waktu dalam mengerjakan setiap hal sehingga lebih efisien"
+* **AI005**: "Fajar merespons: 'Itu konsepnya, tapi buat tugas praktikum dan laporan yang numpuk minggu ini, bentuk nyatanya gimana? Kalau cuma teori bagi waktu, saya udah sering dengar. Saya butuh cara cepat yang langsung kelihatan hasilnya dalam 1–2 jam ke depan biar nggak buang waktu.' Bagaimana tanggapan konkret Anda?"
+* **U006**: "Aku: Adrenalin akan mendorong untuk bergerak"
+* **AI006**: "Fajar merespons: 'Adrenalin pas kepepet emang sering bikin saya gerak cepat, tapi ujung-ujungnya kerjaan jadi tergesa-gesa, ada bagian praktikum yang kelewat, dan besoknya saya malah kehabisan tenaga buat lanjutin tugas lain. Kalau cuma ngandelin panik di akhir, itu pola lama saya. Ada checklist atau contoh langkah kerja 30 menit pertama yang jelas nggak, biar saya bisa langsung tes sekarang tanpa harus nunggu panik?' Bagaimana tanggapan Anda?"
+* **U007**: "Aku: Kalo dalam 30 menit... 5 menit pertama buat target untuk 25 menit ke depan, setelah itu eksekusi"
+* **AI007**: "Fajar merespons: 'Nah, pembagian 5 menit susun target dan 25 menit eksekusi itu masuk akal dan langsung kebayang. Saya bisa coba satu siklus itu sekarang buat kelarin draf laporan bab 1. Tapi kalau pas 25 menit eksekusi ternyata targetnya nggak kekejar atau malah bingung mau mulai dari sub-bab yang mana, langkah berikutnya gimana?' Bagaimana tanggapan Anda?"
+* **U008**: "Aku: Pertimbangkan apa konsekuensinya jika terlambat"
+* **AI008**: "Fajar merespons: 'Kalau soal konsekuensi terlambat, nilai dipotong atau praktikum kena tegur, saya udah hafal banget di luar kepala. Yang saya bingung itu eksekusi teknisnya saat 25 menit berjalan: kalau pas nulis draf bab 1 itu buntu atau nggak selesai, saya harus potong di mana dan evaluasi apa biar nggak balik malas lagi? Bukan diingatkan lagi soal hukumannya.' Bagaimana modifikasi pesan Anda?"
+* **U009**: "Aku: Jika pada diri saya sendiri, 25 menit benar benar locked in. Kefokusan ini sebagai booster dalam mengerjakan"
+* **AI009**: "Fajar merespons: 'Paham. Jadi kuncinya bikin batas 25 menit itu sebagai blok fokus penuh tanpa distraksi sama sekali ya. Saya bakal coba terapkan siklus 5 menit target + 25 menit fokus penuh ini sekarang buat nyelesaiin draf bab 1. Makasih, langkahnya jauh lebih jelas daripada sekadar teori.' Masuk ke Tahap D: Evaluasi Sementara (Perbandingan persepsi, keterbatasan pendekatan, dan pesan personal)."
+
+**[Tahap D — Evaluasi Sementara]**
+
+* **U010**: "1. Saat menegur orang, berikan dampaknya jika ia tidak menangani hambatannya. Kemudian alihkan fokusnya sehingga dirinya bisa lock in terhadap pekerjaannya. 2. Dengan waktu yang lebih terbatas, mungkin hasilnya sebagus saat waktu masih banyak. Namun dengan kefokusan lebih, kita bisa lebih mengerti. 3. Percaya diri, jangan ragu, namun tetap terbuka terhadap pendapat"
+* **AI010**: "Evaluasi sementara dicatat. Masuk ke Tahap E: Uji Ulang (Re-test) untuk tokoh pembanding (kendala checklist analisis data rumit) dan diri sendiri (tugas 3 minggu berturut-turut di mana sprint mustahil)."
+
+**[Tahap E — Uji Ulang (Re-test)]**
+
+* **U011**: "1: Di waktu yang terbatas ini, cukup lanjutkan apa yang udah dimulai sambil terus tracking agar pekerjaan tetap pada jalannya. 2: Dalam waktu yang terasa lebih banyak, masuk akal jika malas. Maka itu buat target yang harus dilakukan atau dicicil setiap harinya"
+* **AI011**: "Fajar merespons: 'Oke, masuk akal. Berarti daripada pusing mikirin seluruh analisis data sekaligus, gue cuma perlu tracking apa yang udah sempat jalan di draf bab 1 tadi dan lanjutin satu step kecil berikutnya biar nggak keluar jalur. Gue coba checklist dua baris data dulu sekarang.' Masuk ke Tahap F: Hasil dan Refleksi Akhir (Perubahan ASK, SWOT subjektif, dan Lesson Learned)."
+
+**[Tahap F — Refleksi Akhir & Konfirmasi]**
+
+* **U012**: "1. ASK Diri: A: Rasa malas bisa dikurangi dengan perubahan kecil yang terus bertambah. K: Sprint sangat beresiko terhadap hasil. S: Jauhkan gadget, pandangan dan pendengaran fokus pada pekerjaan. 2. SWOT: SW: Kekuatan utama adalah percaya diri. Kelemahannya, kurangnya argumen dan bukti. OT: Peluangnya, dapat meyakinkan orang melalui story telling. Ancamannya, jika orang keras kepala akan sulit diberi tahu. 3. Ya. Berpikir kritis taktis"
+
+---
+
+# C. Evaluasi Kinerja Komunikasi dan Catatan Relasional
+
+## 1. Penilaian Enam Dimensi KIPP (Skala 1–4)
+
+*Catatan: Seluruh skor di bawah merupakan usulan asesmen AI berbasis bukti transkrip untuk keperluan moderasi dosen.*
+
+| No | Dimensi Asesmen | Skor (1–4) | Giliran Bukti | Alasan Evaluasi Berdasarkan Indikator Dimensi |
+|:---:|---|:---:|:---:|---|
+| 1 | **Tujuan dan Konteks** | 3.0 | U002, U003 | Mahasiswa menetapkan konteks pengembangan manajemen waktu dan memetakan pola kerja pribadi secara jujur (*sprint* vs cicil), dengan target mengatasi prokrastinasi secara realistis. |
+| 2 | **Persepsi & Validasi Profil/Status** | 3.0 | U007, U009 | Mampu mengidentifikasi kebutuhan komunikan pragmatis (Fajar) akan batasan waktu konkret (blok 5 + 25 menit) setelah menyadari bahwa penjelasan teoritis dan konsep adrenalin ditolak oleh tokoh pembanding. |
+| 3 | **Pemilihan & Urutan Repertoar** | 3.0 | U007, U011 | Menyesuaikan repertoar komunikasi dari argumen konseptual menjadi pembagian teknis operasional, serta memberikan panduan *tracking* langkah kecil saat uji ulang. |
+| 4 | **Eksekusi Komunikasi Jelas & Tulus** | 3.0 | U007, U009 | Kalimat yang disampaikan padat, lugas, langsung pada instruksi (*locked-in*), mencerminkan kepedulian yang diwujudkan melalui alokasi struktur kerja praktis tanpa berbelit-belit. |
+| 5 | **Evaluasi dan Adaptasi** | 3.0 | U010, U011 | Menyadari keterbatasan pendekatan konsekuensi (U008) saat komunikan meminta solusi teknis; beradaptasi dengan menawarkan strategi *tracking* progres bertahap pada fase uji ulang. |
+| 6 | **Refleksi Diri dan Lesson Learned** | 3.0 | U012 | Refleksi tajam pada pergeseran pola pikir: mengakui kelemahan risiko *sprint*, pentingnya langkah kecil bertahap (*incremental progress*), dan kesadaran batas argumen dalam menghadapi komunikan keras kepala. |
+
+**Total Skor**: $18.0 / 24.0$  
+**Nilai Sesi 1 (Usulan AI)**: $\frac{18.0}{24} \times 100 = \mathbf{75.00}$ *(Memerlukan moderasi dosen)*
+
+## 2. Catatan Protokol Pemeranan Relasional (Versi 2.0)
+- **Status Relasional Awal**: Rendah. Tokoh pembanding bersikap defensif, terburu-buru, dan menolak konsep teoritis ("Saya tidak punya banyak waktu", "Itu konsepnya").
+- **Intervensi Personal & Respons**:
+  - Pemberian stimulus pembagian waktu 5 menit target + 25 menit eksekusi (U007) menurunkan resistensi tokoh secara signifikan.
+  - Penekanan konsekuensi (U008) sempat menaikkan kembali defensivitas, namun penjelasan konsep fokus penuh (*locked-in*, U009) berhasil memulihkan rasa aman tokoh.
+- **Pengaruh Teramati**: Rasa aman dan tingkat kepercayaan tokoh meningkat dari kategori Rendah menjadi Sedang-Tinggi, terbukti dari kesediaan Fajar mencoba langsung siklus kerja yang ditawarkan.
+- **Status Relasional Akhir**: Sedang-Tinggi. Tokoh merasa dibantu dengan langkah yang realistis tanpa paksaan emosional.
+
+---
+
+# D. Hasil, Refleksi, dan Rencana Tindak Lanjut
+
+## 1. Pembaruan ASK Pasca-Asesmen
+- **Attitude (Sikap)**: Memandang rasa malas bukan sebagai hambatan mutlak yang harus dilawan dengan kepanikan adrenalin, melainkan kondisi alami yang dapat diatasi melalui perubahan kecil yang konsisten dan terus bertambah secara terstruktur.
+- **Knowledge (Pemahaman)**: Memahami secara kritis bahwa strategi *sprint* (menumpuk pekerjaan di akhir waktu) membawa risiko tinggi terhadap kualitas dan kedalaman hasil pengerjaan, sehingga pembagian tugas jangka panjang mutlak memerlukan sistem cicil harian.
+- **Skill (Keterampilan)**: Mengadopsi keterampilan eliminasi distraksi secara fisik dan digital (menjauhkan gawai, memusatkan pandangan dan pendengaran secara *locked-in*), serta menerapkan *tracking* kemajuan tugas secara bertahap.
+
+## 2. Kesimpulan SWOT Subjektif
+- **Strengths (Kekuatan)**: Sikap percaya diri yang teguh, ketegasan memimpin fokus diri, dan kemampuan memberikan instruksi teknis yang taktis.
+- **Weaknesses (Kelemahan)**: Kecenderungan minim argumen logis dan bukti terstruktur di awal, serta kecenderungan awal mengandalkan ancaman konsekuensi dibandingkan panduan teknis.
+- **Opportunities (Peluang)**: Pemanfaatan teknik *storytelling* dan pendekatan pengalaman nyata untuk membujuk dan memotivasi rekan kerja secara persuasif.
+- **Threats (Ancaman)**: Potensi kebuntuan komunikasi (*deadlock*) apabila berhadapan dengan rekan kerja atau anggota tim yang memiliki watak keras kepala dan menuntut bukti empiris formal.
+
+## 3. Rencana Tindak Lanjut Nyata
+1. **Penerapan Time-Blocking Harian**: Mengalokasikan blok waktu fokus 25 menit (*Pomodoro/Locked-in*) bebas dari gawai untuk menangani cicilan tugas kuliah setiap hari.
+2. **Pembuatan Sistem Tracking Sederhana**: Membuat checklist kemajuan harian untuk proyek-proyek besar multi-minggu agar tidak bergantung pada pengerjaan *sprint* menjelang tenggat.
+3. **Penguatan Komunikasi Relasional**: Saat berdiskusi dalam tim, melengkapi ketegasan arahan dengan contoh demonstrasi konkret serta mendengarkan kendala operasional anggota tim sebelum menuntut hasil akhir.
+
+---
+
+# E. Status Rekapitulasi Nilai UTS
+
+Sesuai ketentuan perhitungan nilai akhir pada dokumen PENUGASAN:
+$$\text{Nilai UTS} = 0{,}10 \times M + 0{,}18 \times (S1 + S2a + S2b + S3a + S3b)$$
+
+| Komponen Evaluasi | Bobot | Nilai Komponen (Skala 0–100) | Status |
+|---|:---:|:---:|:---:|
+| Makalah pra-UTS (`paper.qmd`) | 10% | BT | Menunggu penilaian dosen |
+| **Sesi 1 (Kasus Konseptual 1)** | **18%** | **75.00** | **Usulan AI (Telah selesai)** |
+| Sesi 2a (Kasus Konseptual 2) | 18% | BT | Belum dilaksanakan |
+| Sesi 2b (Kasus Konseptual 2) | 18% | BT | Belum dilaksanakan |
+| Sesi 3a (Kasus Konseptual 3) | 18% | BT | Belum dilaksanakan |
+| Sesi 3b (Kasus Konseptual 3) | 18% | BT | Belum dilaksanakan |
+| **Nilai Akhir UTS** | **100%** | **Belum dihitung** | Menunggu kelengkapan seluruh komponen |
