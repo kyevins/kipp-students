@@ -1,0 +1,181 @@
+---
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 2b — Kasus 2: Persahabatan dan Profesionalitas"
+author: "Virdhi Yastana Buma (NIM: 18225005)"
+date: "2026-10-15"
+lang: id
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    theme: cosmo
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Virdhi Yastana Buma |
+| NIM | 18225005 |
+| Kelas dan tanggal | K01, 15 Oktober 2026 |
+| Nomor/judul kasus | Sesi 2b; Kasus 2 — Persahabatan dan Profesionalitas |
+| Nama dan ID target | Cyntia (K2-03) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Modalitas | Teks mandiri |
+| Kasus nyata/fiktif | Fiktif terstandarisasi |
+| Kelengkapan transkrip | Lengkap (seluruh giliran dialog tercatat kronologis dari Tahap A hingga F) |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+* **Brief Kasus**: Tenggat tugas kelompok 48 jam lagi. Rekan dekat (Cyntia) belum mengirim bagiannya dan merasa pembagian tugas tidak adil. Mahasiswa mengajak percakapan untuk menjaga hubungan persahabatan sekaligus menyepakati tanggung jawab penyelesaian tugas kelompok secara adil dan realistis.
+* **Konteks**: Lingkungan akademik kerja kelompok dengan relasi pertemanan dekat di bawah tekanan batas waktu 48 jam, menghadapi rekan yang memiliki antusiasme ide tinggi namun mudah tersebar fokusnya.
+* **Respons Akhir yang Diharapkan**: Cyntia secara terbuka mengungkapkan keluhan tidak diakuinya ide awal, menyepakati pengaitan ide konsepnya ke dalam bab metodologi dan pembahasan, serta berkomitmen membatasi ruang lingkup pada satu sudut pandang utama dengan batas waktu pengumpulan H-24 jam.
+* **Indikator Keberhasilan**: Penurunan rasa terabaikan pada diri Cyntia, tercapainya kesepakatan pembagian tugas yang menghubungkan ide kreatifnya dengan kerangka metodologi, komitmen waktu pengiriman draf H-24 jam, serta kedisiplinan memilih satu fokus pembahasan saat uji ulang.
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
+|---|---|---|---|
+| SWOT subjektif | Kekuatan: ketegasan dan rasa percaya diri tinggi. Kelemahan: risiko mematikan antusiasme rekan jika kurang terbuka. Peluang: mempertahankan antusiasme rekan lewat pengarahan terarah. Ancaman: potensi kebuntuan jika rekan bersikap keras kepala. | U001, U002, U007 | Sedang |
+| Attitude | Terbuka dan menerima kondisi rekan tanpa menyudutkan, namun mempertahankan ketegasan agar tidak memberi pelonggaran yang mengancam tenggat waktu. | U002, U007 | Sedang |
+| Knowledge | Memahami bahwa kejelasan alokasi tugas dan penghargaan terhadap perspektif rekan merupakan kunci penyelesaian konflik tim. | U002, U007 | Sedang |
+| Skill | Mampu memberikan arahan taktis, menyusun urutan eksekusi tugas bertahap, dan membatasi fokus operasional (*scoping*) secara cepat. | U004, U005, U006 | Sedang |
+| Preferensi/MBTI jika dilaporkan | Tidak dilaporkan (fokus pada komunikasi langsung berbasis aksi dan ketegasan terarah). | U002 | Hipotesis |
+| Karakter, peran, kultur/ko-kultur | Anggota tim yang lugas, solutif, menjaga pertemanan dengan tetap berorientasi pada pencapaian hasil kerja bersama. | U002, U003, U004 | Sementara |
+
+## Dugaan awal profil target dan rencana
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| **Target** | Klarifikasi rasa ketidakadilan pembagian tugas dan perumusan jalan keluar yang adil serta realistis. | Menyelidiki hambatan sikap (beban/ide tak diakui) dan kapasitas eksekusi teknis. | Membuka percakapan tanpa menyudutkan dan mengajak dialog terbuka. | Rekan mengutarakan alasan mengapa pembagian terasa tidak adil. |
+| **Attention** | Menarik perhatian rekan dari alasan kesibukan eksternal menuju penataan beban tugas kelompok. | A: Mengakui kesibukan bersama tanpa membiarkan tugas terbengkalai. | "Hhmm... semua juga sibuk. Tapi gapapa, kita bagi dulu tugasnya..." | Rekan mulai membuka keluhan spesifik terkait ide yang dilewati saat diskusi awal. |
+| **Interest** | Menumbuhkan minat rekan dengan memvalidasi nilai ide konsep yang diusulkannya. | K: Mengarahkan pemahaman bahwa ide konsepnya sangat relevan dengan metodologi dan pembahasan. | "Justru ini cocok buat kamu. Konsep yang kamu usulin itu bisa masuk ke pembahasan dan metodologi loh." | Rekan menyadari relevansi perannya dan meminta batasan langkah prioritas. |
+| **Desire** | Memicu keinginan rekan untuk mengeksekusi tugas dengan memberikan alur kerja bertahap. | S: Menyediakan struktur kerja terfokus (metodologi umum $\rightarrow$ kaitkan konsep $\rightarrow$ pembahasan utama). | Mengurai urutan pengerjaan dan menetapkan batas H-24 jam serta *check-in* berkala. | Rekan menyepakati urutan tugas dan berkomitmen mengirim draf pada H-24 jam. |
+| **Action** | Mengunci komitmen penyelesaian draf saat muncul kendala ide yang melebar pada uji ulang. | S: Membantu membatasi ruang lingkup (*scoping*) pada satu sudut pandang yang paling masuk akal. | Mengingatkan batas waktu yang terbatas dan menginstruksikan pemilihan satu fokus yang paling selaras. | Rekan memilih satu fokus utama, menghentikan penambahan ide baru, dan menuntaskan draf tepat waktu. |
+
+# C) Skrip Percakapan
+
+**[Tahap A — Identifikasi & Verifikasi Administrasi]**
+
+* **U001**: "kelas: k01, Tanggal: 15 Oktober, modalitas: teks mandiri"
+* **AI001**: "Data identifikasi Tahap A telah tercatat: Nama: Virdhi Yastana Buma, NIM: 18225005, Kelas: K01, Tanggal: 15 Oktober 2026, Modalitas: Teks mandiri. Sesi 2b (Kasus 2 — Persahabatan dan Profesionalitas), Komunikan: Cyntia (ID: K2-03). Kita masuk ke Tahap B (Kasus dan Tujuan): Sebutkan tujuan konkret percakapan, dugaan awal hambatan target, dan rencana pendekatan komunikasi Anda."
+
+**[Tahap B — Kasus dan Perencanaan Awal]**
+
+* **U002**: "1. Tentu saja perlu kejelasan mengenai pembagian kerja yang menurutnya tidak adil. Kemudian cari jalan keluar. 2. Kemungkinan adanya beban atau pekerjaan lain. 3. Jangan menyudutkannya, bersikap terbuka, namun tetap tegas"
+* **AI002**: "Perencanaan awal untuk Sesi 2b dicatat. Masuk ke Tahap C: Simulasi Dialog (Kasus 2b). Cyntia membuka percakapan: 'Menarik! Tapi minggu ini banyak hal yang harus saya kerjakan.' Bagaimana tanggapan konkret Anda?"
+
+**[Tahap C — Simulasi Dialog Awal]**
+
+* **U003**: "Aku: Hhmm... semua juga sibuk. Tapi gapapa, kita bagi dulu tugasnya. Nanti kalo ada yang saling keberatan komunikasi aja"
+* **AI003**: "Cyntia: 'Iya sih, paham banget kalau semua lagi sibuk. Cuma kemarin pas diskusi awal, ide-ide konsep yang saya usulin buat bab pembahasan kayaknya dilewatin gitu aja, terus tiba-tiba pembagian tugasnya langsung jadi dan saya dapat jatah nulis teknis metodologi sama olah angket yang detail banget. Rasanya ide saya nggak terlalu diakui, padahal saya lebih kepikiran konsep besarnya. Kalau sekarang mau dibagi ulang biar saya bisa fokus dan nggak ketumpuk sama agenda lain, bagian mana yang menurut kamu paling pas buat saya pegang?' Bagaimana tanggapan Anda?"
+* **U004**: "Aku: Coba kita ajak A ngobrol bareng juga ya"
+* **AI004**: "Cyntia: 'Boleh banget, biar si A juga paham dan kita nggak saling tebak-tebakan. Tapi sebelum kita bertiga ngobrol bareng, aku mau dengar pandangan kamu dulu sebagai teman dekatku. Menurut kamu sendiri, ide konsep pembahasan yang sempat aku lempar kemarin itu masuk akal nggak buat dimasukin ke draf? Terus kalau soal olah data metodologi yang bikin aku mentok ini, bayangan kamu gimana biar tugas ini tetap jalan tanpa bikin aku ngerasa cuma disuruh ngerjain hal teknis yang dari awal nggak cocok sama aku?' Bagaimana tanggapan Anda?"
+* **U005**: "Aku: Justru ini cocok buat kamu. Konsep yang kamu usulin itu bisa masuk ke pembahasan dan metodologi loh"
+* **AI005**: "Cyntia: 'Oh, jadi konsep kemarin sebenarnya bisa langsung dikaitin ke alur metodologi sama pembahasannya? Kalau emang bisa masuk ke situ, aku jadi lebih semangat ngerjainnya. Cuma biar eksekusinya nggak ambyar atau ketumpuk sama agenda lain minggu ini, aku butuh batasan yang jelas. Bagian mana dari metodologi dan pembahasan itu yang harus aku beresin duluan, dan kapan tenggat aku kirim drafnya biar kita bisa saling check-in?' Bagaimana tanggapan Anda?"
+* **U006**: "Aku: Bisa bahas metodologi umumnya dulu, baru kaitin sama konsep kamu. Abis itu baru lanjut bikin pembahasan utamanya. H-24 jam pengumpulan bisa?"
+* **AI006**: "Cyntia: 'Oke, sepakat! Alurnya masuk akal banget. Aku mulai dari kerangka metodologi umum dulu, terus langsung kaitin sama konsep yang kemarin, baru lanjut ke draf pembahasan utamanya. Buat tenggatnya, H-24 jam (besok jam segini) draf kasarnya bakal langsung aku kirim ke kamu. Nanti malam jam 8 aku kabarin progres awalnya biar kita bisa sekalian check-in singkat ya. Makasih sudah bantu lurusin alurnya!' Masuk ke Tahap D: Evaluasi Sementara."
+
+**[Tahap D — Evaluasi Sementara]**
+
+* **U007**: "1. Awalnya ada ketidakcocokan pekerjaan dengan minatnya, namun itu terselesaikan. 2. Saat idenya tidak dibiarkan terbuang dan membuatnya merasa dihargai. 3. Cukup, Sisa 24 jam setelahnya bisa untuk revisi jika ada"
+* **AI007**: "Evaluasi sementara dicatat. Masuk ke Tahap E: Uji Ulang (Re-test). Malam harinya saat check-in jam 20.00, Cyntia menghubungi: 'Aku udah coba tulis kerangka metodologi yang dikaitkan sama konsepku tadi, tapi pas mau masuk ke draf pembahasan, idenya malah melebar ke mana-mana sampai ada tiga sudut pandang baru yang menarik banget buat dibahas. Masalahnya, waktu kita tinggal besok dan aku bingung mau pilih sudut pandang yang mana biar pembahasannya tajam tapi nggak bikin aku keteteran nulisnya sendiri. Menurut kamu, aku harus fokus ke sudut pandang yang mana biar target H-24 jam kita tetap aman?' Bagaimana tanggapan konkret Anda?"
+
+**[Tahap E — Uji Ulang (Re-test)]**
+
+* **U008**: "Aku: Oke, kamu sadarkan waktunya sangat terbatas. Pilih satu sudut pandang yang paling sejalan sama konsep dan metodologi awal, dan paling masuk akal"
+* **AI008**: "Cyntia: 'Setuju banget! Waktu kita emang mepet, jadi mending tajam di satu fokus daripada maksain tiga-tiganya malah bikin buyar. Aku pilih sudut pandang yang kedua aja, karena itu paling nyambung sama metodologi umum yang tadi udah aku kerjain. Aku bakal langsung gas tulis pembahasannya pakai fokus itu dan stop nambahin ide baru dulu. Besok sebelum jam H-24 draf kasarnya pasti udah beres dan langsung kukirim ke kamu buat direview bareng. Makasih udah ngingetin dan bikin aku tetap di jalur!' Masuk ke Tahap F: Hasil dan Refleksi Akhir."
+
+**[Tahap F — Refleksi Akhir & Konfirmasi]**
+
+* **U009**: "1. Perubahan ASK: A: Jangan hilangkan rasa percaya dirinya. Arahkan fokusnya. K: Hargai pendapatnya, bersikap terbuka, namun tetap tegas. S: Arahkan antusiasmenya tetap sejalan dengan tujuan tugas. 2. SWOT Subjektif: SW: Kekuatan utamanya adalah tetap tegas dan percaya diri. Kelemahannya, jika kurang terbuka dapat menghancurkan rasa percaya dirinya. OT: Peluangnya, bisa mempertahankan antusiasmenya. Ancamannya, akan sulit jika cukup keras kepala. 3. Ya"
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+Tujuan tindakan tercapai secara optimal. Mahasiswa berhasil mengidentifikasi bahwa rasa ketidakadilan yang dirasakan Cyntia berakar dari pengabaian ide konsepnya, berhasil mengintegrasikan ide tersebut ke alur metodologi-pembahasan, dan mengunci fokus Cyntia pada satu sudut pandang realistis dengan batas waktu H-24 jam.
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| **Kesimpulan SWOT** | Kekuatan: ketegasan; Kelemahan: asumsi kesibukan semata; Peluang: transparansi tim; Ancaman: resistensi rekan. | Kekuatan: ketegasan yang memvalidasi ide; Kelemahan: risiko menurunkan rasa percaya diri jika kurang terbuka; Peluang: menjaga antusiasme rekan tetap produktif; Ancaman: kebuntuan bila rekan keras kepala. | U002, U005, U008, U009 | Berdasarkan laporan diri, analisis simulasi, dan uji ulang terukur. |
+| **Attitude** | Menganggap rekan sekadar memiliki kesibukan lain; bersiap bersikap terbuka namun tegas. | Menyadari pentingnya menjaga rasa percaya diri rekan yang kreatif sembari mengarahkan fokusnya agar tidak melebar. | U002, U007, U009 | Sikap tampak dari validasi ide yang tulus tanpa melonggarkan batas waktu. |
+| **Knowledge** | Mengetahui pembagian kerja harus jelas tanpa memahami alasan di balik perasaan tidak adil rekan. | Memahami bahwa menghargai pendapat dan mengaitkan ide rekan ke dalam kerangka tugas mampu memulihkan motivasi kerja. | U005, U007, U009 | Pemahaman terkonfirmasi saat menyusun alur metodologi-konsep. |
+| **Skill** | Keterampilan instruksional umum (mengajak bicara bareng dan menegaskan kesibukan bersama). | Keterampilan *scoping* taktis, restrukturisasi alur penulisan bertahap, dan penguncian komitmen waktu H-24 jam. | U005, U006, U008 | Ditunjukkan langsung melalui pembatasan fokus pada fase uji ulang. |
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| **Episode 1 (U003–U004)** | Defensif / Tersebar. Cyntia merasa idenya tidak diakui dan diberi tugas teknis olah data (Bukti AI003). | Menegaskan bahwa semua orang sibuk, mengajak membagi tugas, dan mengusulkan diskusi bersama rekan A (U003, U004). | Cyntia setuju mengajak A, tetapi menuntut pandangan personal mahasiswa tentang kelayakan idenya (AI004). | A terbuka: Cyntia bersedia mengutarakan rasa kecewa akibat idenya yang diabaikan. | Mahasiswa menyadari bahwa Cyntia membutuhkan validasi sebelum melangkah ke diskusi kelompok. |
+| **Episode 2 (U005–U006)** | Antusias / Termotivasi. Cyntia butuh kepastian relevansi ide dan kejelasan urutan eksekusi (Bukti AI004). | Memvalidasi kecocokan ide konsep ke alur metodologi, menyusun urutan kerja bertahap, dan menetapkan H-24 jam (U005, U006). | Cyntia bersemangat, menyepakati alur kerja bertahap, menyetujui batas H-24 jam, dan menawarkan *check-in* jam 20.00 (AI005, AI006). | A membaik penuh; K terarah; S terfasilitasi dengan pembagian tahapan tugas yang terstruktur. | Mengunci komitmen waktu dan jadwal pemantauan kemajuan mandiri. |
+| **Episode 3 (U008)** | Tersebar / *Overwhelmed*. Ide Cyntia melebar menjadi tiga sudut pandang saat batas waktu menipis (Bukti AI007). | Mengingatkan batas waktu yang terbatas dan menginstruksikan memilih satu sudut pandang yang paling masuk akal dan selaras (U008). | Cyntia sepakat membatasi diri, memilih sudut pandang kedua, menghentikan ide baru, dan menuntaskan draf tepat waktu (AI008). | S teruji: kedisiplinan *scoping* berhasil dieksekusi tanpa mematikan motivasi internal. | Mengarahkan rekan memilih mandiri opsi yang paling realistis. |
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+|---|---|---|---|---|
+| **U005** | "Justru ini cocok buat kamu. Konsep yang kamu usulin itu bisa masuk ke pembahasan dan metodologi loh" | Cyntia merasa lega dan antusiasmenya bangkit kembali seketika (AI005). | **Rasa aman: Tinggi.** Cyntia merasa dihargai kapasitas intelektualnya dan tidak lagi merasa sekadar dijadikan pelaksana teknis. | Mengubah persepsi ancaman keterasingan menjadi peluang partisipasi aktif; membuka kemauan berkomitmen. |
+| **U008** | "Oke, kamu sadarkan waktunya sangat terbatas. Pilih satu sudut pandang yang paling sejalan sama konsep dan metodologi awal..." | Cyntia menyadari urgensi waktu tanpa merasa disalahkan, langsung memilih satu fokus (AI008). | **Kepercayaan: Tinggi.** Cyntia mempercayai ketegasan mahasiswa sebagai panduan navigasi yang menyelamatkannya dari kebingungan. | Menjaga stabilitas fokus dan mencegah prokrastinasi akibat pilihan yang terlalu luas. |
+
+## Uji ulang dan pembelajaran
+
+* **Stimulus Uji Ulang**: Cyntia mengalami disorientasi fokus saat menulis pembahasan karena muncul tiga sudut pandang baru yang menarik, sementara tenggat waktu pengumpulan tersisa kurang dari 24 jam.
+* **Respons Mahasiswa**: Mahasiswa merespons secara taktis dengan mengingatkan realitas keterbatasan waktu dan meminta Cyntia menyaring serta memilih satu sudut pandang yang paling konsisten dengan metodologi awal.
+* **Indikator Keberhasilan & Transfer**: Cyntia tidak merasa dibatasi secara otoriter, melainkan dipandu untuk mengambil keputusan realistis. Keterampilan mahasiswa dalam *scoping* operasional terbukti efektif menangani rekan dengan tipe kepribadian berorientasi kemungkinan (ENFP).
+
+## Penilaian enam dimensi
+
+*Catatan: Seluruh skor di bawah merupakan usulan asesmen AI berbasis bukti transkrip aktual untuk keperluan moderasi dosen.*
+
+| Dimensi | Skor (1–4) | ID dan kutipan bukti | Alasan Evaluasi Berdasarkan Indikator Dimensi |
+|---|---|---|---|
+| **Tujuan dan konteks** | 3.5 | U002: "kejelasan mengenai pembagian kerja yang menurutnya tidak adil. Kemudian cari jalan keluar", U006: "H-24 jam pengumpulan bisa?" | Menetapkan sasaran klarifikasi beban kerja dan tenggat waktu konkret yang selaras dengan sisa waktu 48 jam. |
+| **Persepsi dan validasi profil/status** | 3.5 | U005: "Justru ini cocok buat kamu. Konsep yang kamu usulin itu bisa masuk...", U007: "Saat idenya tidak dibiarkan terbuang dan membuatnya merasa dihargai" | Mengidentifikasi kebutuhan psikologis Cyntia (ENFP) akan pengakuan ide konsep dan keengganannya terhadap rutinitas teknis murni. |
+| **Pemilihan dan urutan repertoar** | 3.5 | U005, U006: "Bisa bahas metodologi umumnya dulu, baru kaitin sama konsep kamu...", U008 | Urutan komunikasi terstruktur: merespons keluhan, memvalidasi konsep, menyusun alur kerja mikro, hingga membatasi fokus pembahasan saat uji ulang. |
+| **Eksekusi jelas, peduli dan konsisten** | 3.5 | U005: "Justru ini cocok buat kamu", U008: "Oke, kamu sadarkan waktunya sangat terbatas. Pilih satu sudut pandang..." | Bahasa lugas, memotivasi, tegas, dan konsisten menjaga batas waktu tanpa merusak hubungan persahabatan. |
+| **Evaluasi dan adaptasi** | 3.5 | U007: "Awalnya ada ketidakcocokan pekerjaan dengan minatnya, namun itu terselesaikan", U008 | Cepat membaca pergeseran masalah dari isu kesibukan ke isu pengakuan ide, serta adaptif membatasi ide yang melebar pada uji ulang. |
+| **Refleksi dan lesson learned** | 3.5 | U009: "A: Jangan hilangkan rasa percaya dirinya. Arahkan fokusnya. K: Hargai pendapatnya, bersikap terbuka, namun tetap tegas..." | Refleksi komprehensif yang memahami dinamika memimpin rekan kerja bertipe kreatif dan berorientasi kemungkinan. |
+
+**Total Skor**: $21.0 / 24.0$
+
+**Nilai Sesi 2b (Usulan AI)**: $\frac{21.0}{24} \times 100 = \mathbf{87.50}$ *(Memerlukan moderasi dosen)*
+
+## Refleksi dan lesson learned mahasiswa
+
+* **Dugaan yang Dikoreksi**: Dugaan awal bahwa rekan hanya memiliki kesibukan lain terkoreksi; akar masalah sesungguhnya adalah rasa tidak dihargai karena ide awalnya dilewati dalam diskusi tim.
+* **Stimulus Efektif**: Mengakui nilai konseptual rekan dan mengintegrasikannya ke dalam struktur tugas formal terbukti membangkitkan kemauan kerja seketika.
+* **Pengelolaan Rekan Kreatif**: Rekan yang kreatif dan antusias tidak boleh dimatikan inisiatifnya. Pendekatan terbaik adalah bersikap terbuka, mengarahkan antusiasme tersebut pada kerangka yang terstruktur, dan bersikap tegas membatasi fokus saat waktu mendesak.
+
+## Tindak lanjut dan batas bukti
+
+* **Rencana Tindak Lanjut**:
+  1. Menunggu pesan konfirmasi draf awal dari Cyntia pada sesi *check-in* malam hari.
+  2. Melakukan evaluasi terhadap draf bab metodologi dan pembahasan yang dikirimkan pada batas H-24 jam.
+  3. Mengintegrasikan draf Cyntia ke dalam naskah utama kelompok dan mengalokasikan sisa waktu 24 jam untuk perapian serta revisi akhir bersama anggota A.
+* **Batas Bukti**: Asesmen ini berbasis interaksi teks mandiri dalam simulasi terstandarisasi. Perilaku komunikan merupakan simulasi terprogram dan keberhasilan jangka panjang pada tugas nyata bergantung pada konsistensi eksekusi tim di lapangan.
+
+## Bobot dan nilai akhir UTS
+
+Sesuai ketentuan perhitungan nilai akhir pada dokumen PENUGASAN:
+
+$$
+\text{Nilai UTS} = 0{,}10 \times M + 0{,}18 \times (S1 + S2a + S2b + S3a + S3b)
+$$
+
+| Komponen | Bobot | Nilai komponen | Status |
+|---|---:|---|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | BT | Menunggu penilaian dosen |
+| Sesi 1 | 18% | 75.00 | Usulan AI (Telah selesai) |
+| Sesi 2a | 18% | 87.50 | Usulan AI (Telah selesai) |
+| **Sesi 2b** | **18%** | **87.50** | **Usulan AI (Telah selesai)** |
+| Sesi 3a | 18% | BT | Belum dilaksanakan |
+| Sesi 3b | 18% | BT | Belum dilaksanakan |
+| **Total** | **100%** | **Belum dihitung** | Menunggu kelengkapan seluruh komponen |
+
+*Catatan Ringkasan Kasus 2*:
+Rata-rata Kasus 2 (Sesi 2a & Sesi 2b) = $\frac{87.50 + 87.50}{2} = \mathbf{87.50}$ (Kontribusi Kasus 2 = 36% dari nilai total UTS).
